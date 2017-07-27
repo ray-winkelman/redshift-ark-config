@@ -1,13 +1,11 @@
 # RedShift Ark Survival Evolved
 The RedShift Ark Survival Evolved Server configuration files, and wiki.
 
+## Important Notice
+The server goes offline for between 5 and 10 minutes to run automated updates and data backups everyday at 6:30am (ADT). Please be cognisant of the fact that you may be booted, but will not loose your current game progress.
+
 ## Intro
-The Redshift Ark server hosts two Ark maps: Ragnarock, and The Center. Both maps use the configuration files in this repository. You can connect to our server by adding the following address:port combinations to your Steam server favorites.
-
-### Important Notice
-The server runs an automated update preceded by a data backup every day at 6:30am ADT. During the execution of these scripts, the server will go offline for between 5 and 10 minutes. Please be cognisant of the fact that you may be booted, but will not loose current game progress.
-
----
+The RedShift Ark server hosts two Ark maps: Ragnarock, and The Center. Both maps use the configuration files in this repository. You can connect to our server by adding the following address:port combinations to your Steam server favorites.
 
 #### Ragnarock
 ```
