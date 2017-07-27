@@ -1,4 +1,4 @@
-!(https://image.ibb.co/cxrxEk/redshift.png)
+![alt text](https://image.ibb.co/cxrxEk/redshift.png "RedShift")
 
 # RedShift Ark Survival Evolved
 The RedShift Ark Survival Evolved Server configuration files, and wiki.
