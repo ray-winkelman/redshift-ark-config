@@ -1,5 +1,3 @@
-![alt text](https://image.ibb.co/cxrxEk/redshift.png "RedShift")
-
 # RedShift Ark Survival Evolved
 The RedShift Ark Survival Evolved Server configuration files, and wiki.
 
@@ -26,3 +24,4 @@ To communicate with other players on our servers, please use the Discord VoIP cl
 ```
 https://discord.gg/nv2tAbr
 ```
+![alt text](https://image.ibb.co/cxrxEk/redshift.png "RedShift")
