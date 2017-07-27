@@ -30,4 +30,8 @@ https://discord.gg/nv2tAbr
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/v1AT0vaw2eg?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+<iframe src="https://www.youtube.com/embed/v1AT0vaw2eg?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/v1AT0vaw2eg/0.jpg)](http://www.youtube.com/watch?v=v1AT0vaw2eg)
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=v1AT0vaw2eg" target="_blank"><img src="http://img.youtube.com/vi/v1AT0vaw2eg/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
