@@ -24,4 +24,6 @@ To communicate with other players on our servers, please use the Discord VoIP cl
 ```
 https://discord.gg/nv2tAbr
 ```
-![alt text](https://image.ibb.co/cxrxEk/redshift.png "RedShift")
+---
+
+![alt text](https://image.ibb.co/cxrxEk/redshift.png)
