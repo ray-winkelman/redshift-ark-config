@@ -27,5 +27,4 @@ https://discord.gg/nv2tAbr
 Some help getting started.
 
 ### Connecting To the Server With Steam
-[![IMAGE ALT TEXT HERE](https://ibb.co/m7AkZk)](http://www.youtube.com/watch?v=v1AT0vaw2eg)
-
+[![IMAGE ALT TEXT HERE](https://preview.ibb.co/j4hM75/Screenshot_2017_07_27_20_33_53.png)](http://www.youtube.com/watch?v=v1AT0vaw2eg)
