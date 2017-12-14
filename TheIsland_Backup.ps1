@@ -1,0 +1,1 @@
+Copy-Item .\TheIsland\ShooterGame\Saved\SavedArks\TheIsland.ark .\TheIsland\Backups\TheIsland-$(Get-Date -UFormat "%Y-%m-%d %H-%M") -Force
