@@ -1,0 +1,254 @@
+
+
+[2017-12-13 21:20:00] Loaded 0 apps from install folder "C:\Servers\steamapps\appmanifest_*.acf".
+
+
+[2017-12-13 21:22:16] Loaded 0 apps from install folder "C:\Servers\SteamCMD\steamapps\appmanifest_*.acf".
+
+
+[2017-12-14 17:03:09] Loaded 0 apps from install folder "C:\Servers\Ark\SteamCMD\steamapps\appmanifest_*.acf".
+[2017-12-14 17:03:10] Loaded 0 apps from install folder "c:\servers\ark\steamcmd\theisland\steamapps\appmanifest_*.acf".
+[2017-12-14 17:03:11] Got 100 content servers from directory
+[2017-12-14 17:03:12] AppID 376030 state changed : Update Required,
+[2017-12-14 17:03:12] AppID 376030 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=0, appDisableSecondsRemaining=0
+[2017-12-14 17:03:12] AppID 376030 state changed : Update Required,Update Queued,
+[2017-12-14 17:03:12] AppID 376030 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=0, appDisableSecondsRemaining=0
+[2017-12-14 17:03:12] AppID 376030 state changed : Update Required,Update Queued,Update Running,
+[2017-12-14 17:03:12] AppID 376030 update changed : Running,
+[2017-12-14 17:03:12] AppID 376030 update changed : Running,Reconfiguring,
+[2017-12-14 17:03:13] Got 20 download sources via "/serverlist/63/20/" from valve301.steamcontent.com
+[2017-12-14 17:03:13] Created download interface of type 'CS' (1) to host valve306.steampipe.steamcontent.com (valve306.steamcontent.com)
+[2017-12-14 17:03:13] Created download interface of type 'CS' (1) to host valve308.steampipe.steamcontent.com (valve308.steamcontent.com)
+[2017-12-14 17:03:13] Created download interface of type 'CS' (1) to host valve322.steampipe.steamcontent.com (valve322.steamcontent.com)
+[2017-12-14 17:03:13] HTTP (CS,306) - valve306.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve306.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 17:03:14] HTTP (CS,306) - valve306.steampipe.steamcontent.com (162.254.192.5:80 / 162.254.192.5:80, host: valve306.steamcontent.com): valve306.steampipe.steamcontent.com/depot/376031/manifest/4188219172889402033/5?l=14&e=1513893793&h=79ad86990c8bc4b9a263efd8d8fd95836999ff62 - received 200 (OK) HTTP response
+[2017-12-14 17:03:16] AppID 376030 update changed : Running,
+[2017-12-14 17:03:16] AppID 376030 update changed : Running,Validating,
+[2017-12-14 17:03:16] Validating files (new target,full) ...
+[2017-12-14 17:03:18] File validation finished: 53865 files (6827387026 bytes) total, 53865 files (6827387026 bytes) mismatched (2347 msec).
+[2017-12-14 17:03:18] AppID 376030 update changed : Running,
+[2017-12-14 17:03:18] AppID 376030 update changed : Running,Preallocating,
+[2017-12-14 17:03:33] AppID 376030 update changed : Running,
+[2017-12-14 17:03:33] AppID 376030 update started : download 0/2309870016, store 0/0, reuse 0/0, stage 0/6827387026
+[2017-12-14 17:03:33] AppID 376030 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2017-12-14 17:03:33] AppID 376030 update changed : Running,Downloading,
+[2017-12-14 17:03:33] AppID 376030 update changed : Running,Downloading,Staging,
+[2017-12-14 17:03:33] Downloading 29 chunks from depot 1004
+[2017-12-14 17:03:34] HTTP (CS,308) - valve308.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve308.steamcontent.com): AuthenticateDepotID (1004) - Success!
+[2017-12-14 17:03:34] HTTP (CS,322) - valve322.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve322.steamcontent.com): AuthenticateDepotID (1004) - Success!
+[2017-12-14 17:03:34] HTTP (CS,306) - valve306.steampipe.steamcontent.com (162.254.192.5:80 / 162.254.192.5:80, host: valve306.steamcontent.com): AuthenticateDepotID (1004) - Success!
+[2017-12-14 17:03:34] Increasing target number of download connections to 4 (rate was 0.000, now 1.755)
+[2017-12-14 17:03:34] Created download interface of type 'CS' (1) to host valve305.steampipe.steamcontent.com (valve305.steamcontent.com)
+[2017-12-14 17:03:34] HTTP (CS,305) - valve305.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve305.steamcontent.com): AuthenticateDepotID (1004) - Success!
+[2017-12-14 17:03:35] Downloading 58302 chunks from depot 376031
+[2017-12-14 17:03:35] HTTP (CS,308) - valve308.steampipe.steamcontent.com (162.254.192.6:80 / 162.254.192.6:80, host: valve308.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 17:03:35] HTTP (CS,322) - valve322.steampipe.steamcontent.com (162.254.192.13:80 / 162.254.192.13:80, host: valve322.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 17:03:35] HTTP (CS,305) - valve305.steampipe.steamcontent.com (162.254.192.36:80 / 162.254.192.36:80, host: valve305.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 17:03:54] Increasing target number of download connections to 5 (rate was 1.755, now 84.070)
+[2017-12-14 17:03:54] Created download interface of type 'CS' (1) to host valve325.steampipe.steamcontent.com (valve325.steamcontent.com)
+[2017-12-14 17:03:54] HTTP (CS,325) - valve325.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve325.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 17:04:26] Current download rate: 3.597 Mbps
+[2017-12-14 17:05:27] Current download rate: 6.397 Mbps
+[2017-12-14 17:05:39] Increasing target number of download connections to 6 (rate was 84.070, now 104.016)
+[2017-12-14 17:05:39] Created download interface of type 'CS' (1) to host valve313.steampipe.steamcontent.com (valve313.steamcontent.com)
+[2017-12-14 17:05:39] HTTP (CS,313) - valve313.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve313.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 17:06:08] Increasing target number of download connections to 7 (rate was 104.016, now 125.852)
+[2017-12-14 17:06:08] Created download interface of type 'CS' (1) to host valve327.steampipe.steamcontent.com (valve327.steamcontent.com)
+[2017-12-14 17:06:08] HTTP (CS,327) - valve327.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve327.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 17:06:28] Current download rate: 120.529 Mbps
+[2017-12-14 17:07:29] Current download rate: 77.457 Mbps
+[2017-12-14 17:08:30] Current download rate: 2.553 Mbps
+[2017-12-14 17:09:31] Current download rate: 4.127 Mbps
+[2017-12-14 17:10:32] Current download rate: 4.686 Mbps
+[2017-12-14 17:11:33] Current download rate: 4.274 Mbps
+[2017-12-14 17:12:34] Current download rate: 4.192 Mbps
+[2017-12-14 17:13:35] Current download rate: 3.661 Mbps
+[2017-12-14 17:14:36] Current download rate: 65.877 Mbps
+[2017-12-14 17:15:37] Current download rate: 0.000 Mbps
+[2017-12-14 17:16:25] HTTP (CS,313) - valve313.steampipe.steamcontent.com (162.254.192.40:80 / 162.254.192.40:80, host: valve313.steamcontent.com): Closing connection
+[2017-12-14 17:16:25] HTTP (CS,327) - valve327.steampipe.steamcontent.com (162.254.192.47:80 / 162.254.192.47:80, host: valve327.steamcontent.com): Closing connection
+[2017-12-14 17:16:25] HTTP (CS,306) - valve306.steampipe.steamcontent.com (162.254.192.5:80 / 162.254.192.5:80, host: valve306.steamcontent.com): Closing connection
+[2017-12-14 17:16:25] HTTP (CS,325) - valve325.steampipe.steamcontent.com (162.254.192.46:80 / 162.254.192.46:80, host: valve325.steamcontent.com): Closing connection
+[2017-12-14 17:16:25] HTTP (CS,308) - valve308.steampipe.steamcontent.com (162.254.192.6:80 / 162.254.192.6:80, host: valve308.steamcontent.com): Closing connection
+[2017-12-14 17:16:25] HTTP (CS,322) - valve322.steampipe.steamcontent.com (162.254.192.13:80 / 162.254.192.13:80, host: valve322.steamcontent.com): Closing connection
+[2017-12-14 17:16:25] HTTP (CS,305) - valve305.steampipe.steamcontent.com (162.254.192.36:80 / 162.254.192.36:80, host: valve305.steamcontent.com): Closing connection
+[2017-12-14 17:16:35] AppID 376030 update changed : Running,
+[2017-12-14 17:16:35] AppID 376030 update changed : Running,Committing,
+[2017-12-14 17:16:35] AppID 376030 file commit : 58266 updated, 0 moved, 0 deleted
+[2017-12-14 17:18:39] AppID 376030 state changed : Fully Installed,Update Queued,Update Running,
+[2017-12-14 17:18:39] AppID 376030 finished update, mounted depots (BuildID 2369633) : 1004 (4583992609166574279),376031 (4188219172889402033),
+[2017-12-14 17:18:39] AppID 376030 update changed : Running,
+[2017-12-14 17:18:39] AppID 376030 update changed : None
+[2017-12-14 17:18:39] AppID 376030 state changed : Fully Installed,Update Queued,
+[2017-12-14 17:18:39] AppID 376030 state changed : Fully Installed,
+[2017-12-14 17:18:39] AppID 376030 scheduler finished : removed from schedule
+
+
+[2017-12-14 17:58:39] Loaded 0 apps from install folder "C:\Servers\Ark\SteamCMD\steamapps\appmanifest_*.acf".
+[2017-12-14 17:58:41] Loaded 1 apps from install folder "c:\servers\ark\steamcmd\theisland\steamapps\appmanifest_*.acf".
+[2017-12-14 17:58:42] Got 100 content servers from directory
+[2017-12-14 17:58:43] Start validating appID 376030
+[2017-12-14 17:58:43] AppID 376030 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1513292323, appDisableSecondsRemaining=0
+[2017-12-14 17:58:43] AppID 376030 state changed : Fully Installed,Update Queued,
+[2017-12-14 17:58:43] AppID 376030 state changed : Fully Installed,Update Queued,Update Running,
+[2017-12-14 17:58:43] AppID 376030 update changed : Running,
+[2017-12-14 17:58:43] AppID 376030 update changed : Running,Reconfiguring,
+[2017-12-14 17:58:44] AppID 376030 update changed : Running,
+[2017-12-14 17:58:44] AppID 376030 update changed : Running,Validating,
+[2017-12-14 17:58:44] Validating files (all active,full) ...
+[2017-12-14 18:09:04] File validation finished: 53865 files (6827387026 bytes) total, 0 files (0 bytes) mismatched (620164 msec).
+[2017-12-14 18:09:04] AppID 376030 update changed : Running,
+[2017-12-14 18:09:04] AppID 376030 update changed : None
+[2017-12-14 18:09:04] AppID 376030 state changed : Fully Installed,Update Queued,
+[2017-12-14 18:09:04] AppID 376030 state changed : Fully Installed,
+[2017-12-14 18:09:04] AppID 376030 scheduler finished : removed from schedule
+
+
+[2017-12-14 22:20:04] Loaded 0 apps from install folder "C:\Servers\Ark\SteamCMD\steamapps\appmanifest_*.acf".
+[2017-12-14 22:20:16] Loaded 0 apps from install folder "c:\servers\ark\steamcmd\aberration\steamapps\appmanifest_*.acf".
+[2017-12-14 22:20:17] Got 100 content servers from directory
+[2017-12-14 22:20:18] AppID 376030 state changed : Update Required,
+[2017-12-14 22:20:18] AppID 376030 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2017-12-14 22:20:18] AppID 376030 state changed : Update Required,Update Queued,
+[2017-12-14 22:20:18] AppID 376030 state changed : Update Required,Update Queued,Update Running,
+[2017-12-14 22:20:18] AppID 376030 update changed : Running,
+[2017-12-14 22:20:18] AppID 376030 update changed : Running,Reconfiguring,
+[2017-12-14 22:20:18] AppID 376030 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2017-12-14 22:20:22] AppID 376030 update changed : Running,
+[2017-12-14 22:20:22] AppID 376030 update changed : Running,Validating,
+[2017-12-14 22:20:22] Validating files (new target,full) ...
+[2017-12-14 22:20:38] File validation finished: 53865 files (6827387026 bytes) total, 53865 files (6827387026 bytes) mismatched (15941 msec).
+[2017-12-14 22:20:38] AppID 376030 update changed : Running,
+[2017-12-14 22:20:38] AppID 376030 update changed : Running,Preallocating,
+[2017-12-14 22:20:49] AppID 376030 update changed : Running,
+[2017-12-14 22:20:49] AppID 376030 update started : download 0/2309870016, store 0/0, reuse 0/0, stage 0/6827387026
+[2017-12-14 22:20:49] AppID 376030 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2017-12-14 22:20:49] AppID 376030 update changed : Running,Downloading,
+[2017-12-14 22:20:49] AppID 376030 update changed : Running,Downloading,Staging,
+[2017-12-14 22:20:49] Got 20 download sources via "/serverlist/63/20/" from valve300.steamcontent.com
+[2017-12-14 22:20:49] Created download interface of type 'CS' (1) to host valve307.steampipe.steamcontent.com (valve307.steamcontent.com)
+[2017-12-14 22:20:49] Created download interface of type 'CS' (1) to host valve310.steampipe.steamcontent.com (valve310.steamcontent.com)
+[2017-12-14 22:20:49] Created download interface of type 'CS' (1) to host valve324.steampipe.steamcontent.com (valve324.steamcontent.com)
+[2017-12-14 22:20:49] Downloading 29 chunks from depot 1004
+[2017-12-14 22:20:49] HTTP (CS,307) - valve307.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve307.steamcontent.com): AuthenticateDepotID (1004) - Success!
+[2017-12-14 22:20:49] HTTP (CS,310) - valve310.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve310.steamcontent.com): AuthenticateDepotID (1004) - Success!
+[2017-12-14 22:20:49] HTTP (CS,324) - valve324.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve324.steamcontent.com): AuthenticateDepotID (1004) - Success!
+[2017-12-14 22:20:52] Downloading 58302 chunks from depot 376031
+[2017-12-14 22:20:52] HTTP (CS,310) - valve310.steampipe.steamcontent.com (162.254.192.7:80 / 162.254.192.7:80, host: valve310.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 22:20:52] HTTP (CS,307) - valve307.steampipe.steamcontent.com (162.254.192.37:80 / 162.254.192.37:80, host: valve307.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 22:20:52] HTTP (CS,324) - valve324.steampipe.steamcontent.com (162.254.192.14:80 / 162.254.192.14:80, host: valve324.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 22:21:02] Increasing target number of download connections to 4 (rate was 0.000, now 52.105)
+[2017-12-14 22:21:02] Created download interface of type 'CS' (1) to host valve327.steampipe.steamcontent.com (valve327.steamcontent.com)
+[2017-12-14 22:21:24] HTTP (CS,327) - valve327.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve327.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 22:22:03] Current download rate: 0.000 Mbps
+[2017-12-14 22:23:03] Current download rate: 3.160 Mbps
+[2017-12-14 22:24:05] Current download rate: 0.000 Mbps
+[2017-12-14 22:24:19] Increasing target number of download connections to 5 (rate was 52.105, now 70.816)
+[2017-12-14 22:24:19] Created download interface of type 'CS' (1) to host valve308.steampipe.steamcontent.com (valve308.steamcontent.com)
+[2017-12-14 22:24:19] HTTP (CS,308) - valve308.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve308.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 22:24:31] Increasing target number of download connections to 6 (rate was 70.816, now 105.188)
+[2017-12-14 22:24:31] Created download interface of type 'CS' (1) to host valve319.steampipe.steamcontent.com (valve319.steamcontent.com)
+[2017-12-14 22:24:31] HTTP (CS,319) - valve319.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve319.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 22:25:06] Current download rate: 121.243 Mbps
+[2017-12-14 22:25:22] Increasing target number of download connections to 7 (rate was 105.188, now 126.342)
+[2017-12-14 22:25:22] Created download interface of type 'CS' (1) to host valve325.steampipe.steamcontent.com (valve325.steamcontent.com)
+[2017-12-14 22:25:22] HTTP (CS,325) - valve325.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve325.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 22:26:07] Current download rate: 12.137 Mbps
+[2017-12-14 22:27:08] Current download rate: 0.000 Mbps
+[2017-12-14 22:28:09] Current download rate: 3.757 Mbps
+[2017-12-14 22:29:10] Current download rate: 1.358 Mbps
+[2017-12-14 22:30:11] Current download rate: 4.732 Mbps
+[2017-12-14 22:31:12] Current download rate: 0.000 Mbps
+[2017-12-14 22:32:13] Current download rate: 4.652 Mbps
+[2017-12-14 22:33:14] Current download rate: 4.552 Mbps
+[2017-12-14 22:34:15] Current download rate: 6.616 Mbps
+[2017-12-14 22:35:16] Current download rate: 6.731 Mbps
+[2017-12-14 22:36:17] Current download rate: 0.000 Mbps
+[2017-12-14 22:36:35] HTTP (CS,327) - valve327.steampipe.steamcontent.com (162.254.192.47:80 / 162.254.192.47:80, host: valve327.steamcontent.com): Closing connection
+[2017-12-14 22:36:35] HTTP (CS,325) - valve325.steampipe.steamcontent.com (162.254.192.46:80 / 162.254.192.46:80, host: valve325.steamcontent.com): Closing connection
+[2017-12-14 22:36:35] HTTP (CS,307) - valve307.steampipe.steamcontent.com (162.254.192.37:80 / 162.254.192.37:80, host: valve307.steamcontent.com): Closing connection
+[2017-12-14 22:36:35] HTTP (CS,324) - valve324.steampipe.steamcontent.com (162.254.192.14:80 / 162.254.192.14:80, host: valve324.steamcontent.com): Closing connection
+[2017-12-14 22:36:35] HTTP (CS,319) - valve319.steampipe.steamcontent.com (162.254.192.43:80 / 162.254.192.43:80, host: valve319.steamcontent.com): Closing connection
+[2017-12-14 22:36:35] HTTP (CS,310) - valve310.steampipe.steamcontent.com (162.254.192.7:80 / 162.254.192.7:80, host: valve310.steamcontent.com): Closing connection
+[2017-12-14 22:36:35] HTTP (CS,308) - valve308.steampipe.steamcontent.com (162.254.192.6:80 / 162.254.192.6:80, host: valve308.steamcontent.com): Closing connection
+[2017-12-14 22:36:58] AppID 376030 update changed : Running,
+[2017-12-14 22:36:58] AppID 376030 update changed : Running,Committing,
+[2017-12-14 22:36:58] AppID 376030 file commit : 58266 updated, 0 moved, 0 deleted
+[2017-12-14 22:38:49] AppID 376030 state changed : Fully Installed,Update Queued,Update Running,
+[2017-12-14 22:38:49] AppID 376030 finished update, mounted depots (BuildID 2369633) : 1004 (4583992609166574279),376031 (4188219172889402033),
+[2017-12-14 22:38:49] AppID 376030 update changed : Running,
+[2017-12-14 22:38:49] AppID 376030 update changed : None
+[2017-12-14 22:38:49] AppID 376030 state changed : Fully Installed,Update Queued,
+[2017-12-14 22:38:49] AppID 376030 state changed : Fully Installed,
+[2017-12-14 22:38:49] AppID 376030 scheduler finished : removed from schedule
+
+
+[2017-12-14 22:45:03] Loaded 0 apps from install folder "C:\Servers\Ark\SteamCMD\steamapps\appmanifest_*.acf".
+[2017-12-14 22:45:05] Loaded 0 apps from install folder "c:\servers\ark\aberration\steamapps\appmanifest_*.acf".
+[2017-12-14 22:45:06] Got 100 content servers from directory
+[2017-12-14 22:45:07] AppID 376030 state changed : Update Required,
+[2017-12-14 22:45:07] AppID 376030 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=-24352, appDisableSecondsRemaining=0
+[2017-12-14 22:45:07] AppID 376030 state changed : Update Required,Update Queued,
+[2017-12-14 22:45:07] AppID 376030 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=-24352, appDisableSecondsRemaining=0
+[2017-12-14 22:45:07] AppID 376030 state changed : Update Required,Update Queued,Update Running,
+[2017-12-14 22:45:07] AppID 376030 update changed : Running,
+[2017-12-14 22:45:07] AppID 376030 update changed : Running,Reconfiguring,
+[2017-12-14 22:45:08] AppID 376030 update changed : Running,
+[2017-12-14 22:45:08] AppID 376030 update changed : Running,Validating,
+[2017-12-14 22:45:08] Validating files (new target,full) ...
+[2017-12-14 22:45:11] File validation finished: 53865 files (6827387026 bytes) total, 53865 files (6827387026 bytes) mismatched (2243 msec).
+[2017-12-14 22:45:11] AppID 376030 update changed : Running,
+[2017-12-14 22:45:11] AppID 376030 update changed : Running,Preallocating,
+[2017-12-14 22:45:18] AppID 376030 update changed : Running,
+[2017-12-14 22:45:18] AppID 376030 update started : download 0/2309870016, store 0/0, reuse 0/0, stage 0/6827387026
+[2017-12-14 22:45:18] AppID 376030 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2017-12-14 22:45:18] AppID 376030 update changed : Running,Downloading,
+[2017-12-14 22:45:18] AppID 376030 update changed : Running,Downloading,Staging,
+[2017-12-14 22:45:19] Got 20 download sources via "/serverlist/63/20/" from valve300.steamcontent.com
+[2017-12-14 22:45:19] Created download interface of type 'CS' (1) to host valve309.steampipe.steamcontent.com (valve309.steamcontent.com)
+[2017-12-14 22:45:19] Created download interface of type 'CS' (1) to host valve323.steampipe.steamcontent.com (valve323.steamcontent.com)
+[2017-12-14 22:45:19] Created download interface of type 'CS' (1) to host valve306.steampipe.steamcontent.com (valve306.steamcontent.com)
+[2017-12-14 22:45:19] Downloading 29 chunks from depot 1004
+[2017-12-14 22:45:19] HTTP (CS,309) - valve309.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve309.steamcontent.com): AuthenticateDepotID (1004) - Success!
+[2017-12-14 22:45:19] HTTP (CS,323) - valve323.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve323.steamcontent.com): AuthenticateDepotID (1004) - Success!
+[2017-12-14 22:45:19] HTTP (CS,306) - valve306.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve306.steamcontent.com): AuthenticateDepotID (1004) - Success!
+[2017-12-14 22:45:23] Downloading 58302 chunks from depot 376031
+[2017-12-14 22:45:23] HTTP (CS,306) - valve306.steampipe.steamcontent.com (162.254.192.5:80 / 162.254.192.5:80, host: valve306.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 22:45:23] HTTP (CS,323) - valve323.steampipe.steamcontent.com (162.254.192.45:80 / 162.254.192.45:80, host: valve323.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 22:45:23] HTTP (CS,309) - valve309.steampipe.steamcontent.com (162.254.192.38:80 / 162.254.192.38:80, host: valve309.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 22:45:31] Increasing target number of download connections to 4 (rate was 0.000, now 56.786)
+[2017-12-14 22:45:31] Created download interface of type 'CS' (1) to host valve308.steampipe.steamcontent.com (valve308.steamcontent.com)
+[2017-12-14 22:45:48] HTTP (CS,308) - valve308.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve308.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 22:45:59] Increasing target number of download connections to 5 (rate was 56.786, now 92.890)
+[2017-12-14 22:45:59] Created download interface of type 'CS' (1) to host valve307.steampipe.steamcontent.com (valve307.steamcontent.com)
+[2017-12-14 22:46:05] HTTP (CS,307) - valve307.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve307.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 22:46:32] Current download rate: 0.000 Mbps
+[2017-12-14 22:47:33] Current download rate: 2.210 Mbps
+[2017-12-14 22:48:18] Increasing target number of download connections to 6 (rate was 92.890, now 111.580)
+[2017-12-14 22:48:18] Created download interface of type 'CS' (1) to host valve317.steampipe.steamcontent.com (valve317.steamcontent.com)
+[2017-12-14 22:48:18] HTTP (CS,317) - valve317.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve317.steamcontent.com): AuthenticateDepotID (376031) - Success!
+[2017-12-14 22:48:34] Current download rate: 124.326 Mbps
+[2017-12-14 22:49:35] Current download rate: 79.370 Mbps
+[2017-12-14 22:50:36] Current download rate: 1.396 Mbps
+[2017-12-14 22:51:37] Current download rate: 3.615 Mbps
+[2017-12-14 22:52:38] Current download rate: 5.950 Mbps
+[2017-12-14 22:53:39] Current download rate: 4.570 Mbps
+[2017-12-14 22:54:40] Current download rate: 0.000 Mbps
+[2017-12-14 22:55:41] Current download rate: 7.440 Mbps
+[2017-12-15 05:42:34] Current download rate: 0.000 Mbps
+[2017-12-15 05:43:23] HTTP (CS,309) - valve309.steampipe.steamcontent.com (162.254.192.38:80 / 162.254.192.38:80, host: valve309.steamcontent.com): Closing connection
+[2017-12-15 05:43:23] HTTP (CS,307) - valve307.steampipe.steamcontent.com (162.254.192.37:80 / 162.254.192.37:80, host: valve307.steamcontent.com): Closing connection
+[2017-12-15 05:43:23] HTTP (CS,306) - valve306.steampipe.steamcontent.com (162.254.192.5:80 / 162.254.192.5:80, host: valve306.steamcontent.com): Closing connection
+[2017-12-15 05:43:23] HTTP (CS,317) - valve317.steampipe.steamcontent.com (162.254.192.42:80 / 162.254.192.42:80, host: valve317.steamcontent.com): Closing connection
+[2017-12-15 05:43:23] HTTP (CS,323) - valve323.steampipe.steamcontent.com (162.254.192.45:80 / 162.254.192.45:80, host: valve323.steamcontent.com): Closing connection
+[2017-12-15 05:43:24] HTTP (CS,308) - valve308.steampipe.steamcontent.com (162.254.192.6:80 / 162.254.192.6:80, host: valve308.steamcontent.com): Closing connection
+[2017-12-15 05:45:06] AppID 376030 update changed : Running,
+[2017-12-15 05:45:06] AppID 376030 update changed : Running,Committing,
+[2017-12-15 05:45:06] AppID 376030 file commit : 58266 updated, 0 moved, 0 deleted
+[2017-12-15 05:46:25] AppID 376030 state changed : Fully Installed,Update Queued,Update Running,
+[2017-12-15 05:46:25] AppID 376030 finished update, mounted depots (BuildID 2369633) : 1004 (4583992609166574279),376031 (4188219172889402033),
+[2017-12-15 05:46:25] AppID 376030 update changed : Running,
+[2017-12-15 05:46:25] AppID 376030 update changed : None
+[2017-12-15 05:46:25] AppID 376030 state changed : Fully Installed,Update Queued,
+[2017-12-15 05:46:25] AppID 376030 state changed : Fully Installed,
+[2017-12-15 05:46:25] AppID 376030 scheduler finished : removed from schedule

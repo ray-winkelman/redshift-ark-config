@@ -1,0 +1,100 @@
+
+
+[2017-12-13 21:19:41] Startup - updater built Dec  2 2013 18:43:44
+[2017-12-13 21:19:41] Checking for update on startup
+[2017-12-13 21:19:41] Checking for available update...
+[2017-12-13 21:19:43] Package file steamcmd_public_all.zip.7f013bf483f7dc9d44a9e2d952ad1e6e290aa60f missing or incorrect size
+[2017-12-13 21:19:43] Package file steamcmd_bins_win32.zip.d04a231f20e6b979212530d033ead97acd14631f missing or incorrect size
+[2017-12-13 21:19:43] Package file steamcmd_steamservice_win32.zip.31359080fec4e2ed5f5820b2f3c4be1dcd1f5fe6 missing or incorrect size
+[2017-12-13 21:19:43] Package file steamcmd_steamerrorreporter_win32.zip.ba7c942a947903795e3c9b93ead645ad9ed3bf93 missing or incorrect size
+[2017-12-13 21:19:43] Package file steamcmd_win32.zip.0e792d9171999d8cd1a6f2afe874481341a0c820 missing or incorrect size
+[2017-12-13 21:19:43] Downloading update (0 of 9,642 KB)...
+[2017-12-13 21:19:44] Downloading update (743 of 9,642 KB)...
+[2017-12-13 21:19:44] Downloading update (6,188 of 9,642 KB)...
+[2017-12-13 21:19:44] Downloading update (9,642 of 9,642 KB)...
+[2017-12-13 21:19:44] Download Complete.
+[2017-12-13 21:19:44] uninstalled manifest found in C:\Servers\package\steam_cmd_win32 (1).
+[2017-12-13 21:19:44] Found pending update
+[2017-12-13 21:19:44] Applying update...
+[2017-12-13 21:19:44] Extracting package...
+[2017-12-13 21:19:48] Installing update...
+[2017-12-13 21:19:48] Committing NTFS transaction (0 non-transactional backup files)
+[2017-12-13 21:19:48] Cleaning up...
+[2017-12-13 21:19:48] Update complete, launching...
+[2017-12-13 21:19:48] Shutdown
+
+
+[2017-12-13 21:22:15] Startup - updater built Aug 30 2017 16:44:33
+[2017-12-13 21:22:15] Checking for update on startup
+[2017-12-13 21:22:15] Checking for available updates...
+[2017-12-13 21:22:16] Download skipped: /client/steam_cmd_win32 version 1504137959, installed version 1504137959
+[2017-12-13 21:22:16] Nothing to do
+[2017-12-13 21:22:16] Verifying installation...
+[2017-12-13 21:22:16] Performing checksum verification of executable files
+[2017-12-13 21:22:16] Verification complete
+
+
+[2017-12-14 17:03:00] Startup - updater built Aug 30 2017 16:44:33
+[2017-12-14 17:03:00] Checking for update on startup
+[2017-12-14 17:03:00] Checking for available updates...
+[2017-12-14 17:03:01] Package file steamcmd_public_all.zip.vz.095c0f606502da8c4c4322bdd2c76c3fed7dccb0_26024 missing or incorrect size
+[2017-12-14 17:03:01] Package file steamcmd_bins_win32.zip.vz.508dde671061506718b98a0d165045c101d3155b_4395896 missing or incorrect size
+[2017-12-14 17:03:01] Package file steamcmd_steamservice_win32.zip.vz.39e170c2b901402fa3737b9aa4987f7ea46ddc7b_1012025 missing or incorrect size
+[2017-12-14 17:03:01] Package file steamcmd_steamerrorreporter_win32.zip.147dcf5532e8ac63a8a7ff4f561219e9efa994ed missing or incorrect size
+[2017-12-14 17:03:01] Package file steamcmd_win32.zip.vz.7d0201c25604354ed87f976c1ca4452bc3617b42_1035105 missing or incorrect size
+[2017-12-14 17:03:01] Downloading update (0 of 6,458 KB)...
+[2017-12-14 17:03:01] Downloading update (2,559 of 6,458 KB)...
+[2017-12-14 17:03:01] Downloading update (6,458 of 6,458 KB)...
+[2017-12-14 17:03:01] Download complete.
+[2017-12-14 17:03:01] uninstalled manifest found in C:\Servers\Ark\SteamCMD\package\steam_cmd_win32 (1).
+[2017-12-14 17:03:01] Found pending update
+[2017-12-14 17:03:01] Installing update...
+[2017-12-14 17:03:01] Extracting package...
+[2017-12-14 17:03:05] Installing update...
+[2017-12-14 17:03:05] Committing NTFS transaction (0 non-transactional backup files)
+[2017-12-14 17:03:05] Cleaning up...
+[2017-12-14 17:03:05] Update complete, launching Steamcmd...
+[2017-12-14 17:03:05] Shutdown
+
+
+[2017-12-14 17:03:05] Startup - updater built Dec 12 2017 12:21:25
+[2017-12-14 17:03:06] Checking for update on startup
+[2017-12-14 17:03:06] Checking for available updates...
+[2017-12-14 17:03:06] Download skipped: /client/steam_cmd_win32 version 1513124286, installed version 1513124286
+[2017-12-14 17:03:06] Nothing to do
+[2017-12-14 17:03:06] Verifying installation...
+[2017-12-14 17:03:06] Performing checksum verification of executable files
+[2017-12-14 17:03:09] Verification complete
+
+
+[2017-12-14 17:58:38] Startup - updater built Dec 12 2017 12:21:25
+[2017-12-14 17:58:39] Checking for update on startup
+[2017-12-14 17:58:39] Checking for available updates...
+[2017-12-14 17:58:39] Download skipped: /client/steam_cmd_win32 version 1513124286, installed version 1513124286
+[2017-12-14 17:58:39] Nothing to do
+[2017-12-14 17:58:39] Verifying installation...
+[2017-12-14 17:58:39] Performing checksum verification of executable files
+[2017-12-14 17:58:39] Verification complete
+[2017-12-14 18:09:05] Shutdown
+
+
+[2017-12-14 22:19:50] Startup - updater built Dec 12 2017 12:21:25
+[2017-12-14 22:19:51] Checking for update on startup
+[2017-12-14 22:19:51] Checking for available updates...
+[2017-12-14 22:19:52] Download skipped: /client/steam_cmd_win32 version 1513124286, installed version 1513124286
+[2017-12-14 22:19:52] Nothing to do
+[2017-12-14 22:19:52] Verifying installation...
+[2017-12-14 22:19:52] Performing checksum verification of executable files
+[2017-12-14 22:20:02] Verification complete
+[2017-12-14 22:38:50] Shutdown
+
+
+[2017-12-14 22:45:02] Startup - updater built Dec 12 2017 12:21:25
+[2017-12-14 22:45:02] Checking for update on startup
+[2017-12-14 22:45:02] Checking for available updates...
+[2017-12-14 22:45:02] Download skipped: /client/steam_cmd_win32 version 1513124286, installed version 1513124286
+[2017-12-14 22:45:02] Nothing to do
+[2017-12-14 22:45:02] Verifying installation...
+[2017-12-14 22:45:02] Performing checksum verification of executable files
+[2017-12-14 22:45:03] Verification complete
+[2017-12-15 05:46:25] Shutdown
