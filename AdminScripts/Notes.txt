@@ -1,0 +1,1 @@
+These are in-game scripts to bootstrap characters for concept building and disaster recovery.
