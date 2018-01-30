@@ -17,11 +17,10 @@ The active mods are stacked in the following order:
 6. All Color Dinos - 478525616
 7. More Narcotics & More Tranq-Arrows Combined v2.1 - 754885087
 8. Dino Pick Up Mod - v1.2 - 870709781
-9. Scorched Earth Plus - 845855498
-10. Dragonpunk: Mythical Creatures - 848706943
-11. Capitalism Currency - 747539326
-12. Capitalism Admin Table - 784166441
-13. Capitalism Player Trader - 873749349
+9. Dragonpunk: Mythical Creatures - 848706943
+10. Capitalism Currency - 747539326
+11. Capitalism Admin Table - 784166441
+12. Capitalism Player Trader - 873749349
 
 You **will** have to visit the link below and click "Subscribe To All" in order to circumvent a re-occurring connection timeout issue.
 ```
