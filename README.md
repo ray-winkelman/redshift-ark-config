@@ -1,5 +1,5 @@
 # RedShift Ark Survival Evolved Official PvE Server
-The RedShift Ark Survival Evolved Server Introduction, Instructions, and Configuration.
+###### The RedShift Ark Survival Evolved Server Introduction, Instructions, and Configuration.
 
 #### Ark-In-A-Box Notice (For Server Admins)
 A RedShift server instance is deployable by cloning this repository and running `*_Update.bat` followed by `*_Run.bat` with `*` depending on the map of choice. If you replicate the RedShift configuration: *Be sure to give credit where it's due!* 
@@ -29,10 +29,8 @@ The active mods are stacked in the following order:
 14. Capitalism Admin Table - [784166441](https://steamcommunity.com/sharedfiles/filedetails/?id=784166441)
 15. Capitalism Player Trader - [873749349](https://steamcommunity.com/sharedfiles/filedetails/?id=873749349)
 
-##### Players: You may have to visit the Steam link below and click "Subscribe To All" in order to circumvent a recurring connection timeout issue.
-```
+You may have to visit the Steam link below and click *Subscribe To All* in order to circumvent a recurring connection timeout issue.
 ARK: Survival Evolved > Workshop > Collections > RayBan's Workshop > [RedShift PvE Server Mod Stack](http://steamcommunity.com/sharedfiles/filedetails/?id=1138050972)
-```
 
 ## URL For Manual Connections
 ```
