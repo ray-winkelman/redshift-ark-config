@@ -1,6 +1,9 @@
 # RedShift Ark Survival Evolved Official PvE Server Configuration & Guide
 The RedShift Ark Survival Evolved Server Introduction, and Configuration Files.
 
+#### Ark In A Box
+Currently, the repository is deployable by cloning it and running *_Update.bat followed by *_Run.bat script depending on the map of choice. If you replicate the RedShift configuration: be sure to give credit where it's due. Also, don't forget to copy the config files in /GlobalConfig to the /ShooterGame/Saved/Config/WindowsServer map folders downloaded by the *_Update.bat script.
+
 ## Important Notice
 The server goes offline for exactly 12 minutes to run automated updates and data backups everyday at 6:00am (AST). Please be cognisant of the fact that you may be booted, but will not loose your current game progress.
 
@@ -9,22 +12,21 @@ The RedShift Ark server hosts The Center DLC map using the configuration files i
 
 ## Active Mods
 The active mods are stacked in the following order:
-1. (Discontinued) Healthbars & Torporbars v2 - 642284892
-2. Ultra Stacks - 761535755
-3. Structures Plus (S+) - 731604991
-4. Boosted Flyers+ [2.0] - 914925774
-5. NPC Bush People - 663332507
-6. Improved Dinos - Rare Spawns - 479929837
-7. More Narcotics v2.1 - 751485984
-8. Wooden Hanging Bridge - 893834064
-9. Dragon Gods - 561820195
-10. Super Small Forge Fast - 1283689530
-11. Indominus Rex Nemesis - 729352919
-12. Better Beacons 2.0 - 506506101
-13. Capitalism Currency - 747539326
-14. Capitalism Admin Table - 784166441
-15. Capitalism Player Trader - 873749349
-
+1. (Discontinued) Healthbars & Torporbars v2 - [642284892](https://steamcommunity.com/sharedfiles/filedetails/?id=642284892)
+2. Ultra Stacks - [761535755](https://steamcommunity.com/sharedfiles/filedetails/?id=761535755)
+3. Structures Plus (S+) - [731604991](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991)
+4. Boosted Flyers+ [2.0] - [914925774](https://steamcommunity.com/sharedfiles/filedetails/?id=914925774)
+5. NPC Bush People - [663332507](https://steamcommunity.com/sharedfiles/filedetails/?id=663332507)
+6. Improved Dinos - Rare Spawns - [479929837](https://steamcommunity.com/sharedfiles/filedetails/?id=479929837)
+7. More Narcotics v2.1 - [751485984](https://steamcommunity.com/sharedfiles/filedetails/?id=751485984)
+8. Wooden Hanging Bridge - [893834064](https://steamcommunity.com/sharedfiles/filedetails/?id=893834064)
+9. Dragon Gods - [561820195](https://steamcommunity.com/sharedfiles/filedetails/?id=561820195)
+10. Super Small Forge Fast - [1283689530](https://steamcommunity.com/sharedfiles/filedetails/?id=1283689530)
+11. Indominus Rex Nemesis - [729352919](https://steamcommunity.com/sharedfiles/filedetails/?id=729352919)
+12. Better Beacons 2.0 - [506506101](https://steamcommunity.com/sharedfiles/filedetails/?id=506506101)
+13. Capitalism Currency - [747539326](https://steamcommunity.com/sharedfiles/filedetails/?id=747539326)
+14. Capitalism Admin Table - [784166441](https://steamcommunity.com/sharedfiles/filedetails/?id=784166441)
+15. Capitalism Player Trader - [873749349](https://steamcommunity.com/sharedfiles/filedetails/?id=873749349)
 
 You **will** have to visit the link below and click "Subscribe To All" in order to circumvent a re-occurring connection timeout issue.
 ```
@@ -33,14 +35,8 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=1138050972
 
 ## URL For Manual Connections
 ```
-https://redshiftark.duckdns.org:18617 (RCON)
 https://redshiftark.duckdns.org:18616 (Steam)
-```
-
-## Discord (VoIP)
-To communicate with other players on our servers, please use the Discord VoIP client to join the following chat room:
-```
-https://discord.gg/nv2tAbr
+https://redshiftark.duckdns.org:18617 (RCON)
 ```
 
 ## YouTube Channel
@@ -49,6 +45,7 @@ To see your structures featured on our YouTube channel, smash the subscribe butt
 https://www.youtube.com/playlist?list=PLxIRzMPoI2z4SOF3JibqpRcVDI0GypXvg
 ```
 
+## Miscellaneous
 ### Mod String
 ```
 642284892,761535755,731604991,914925774,663332507,479929837,751485984,893834064,561820195,1283689530,729352919,506506101,747539326,784166441,873749349
