@@ -23,6 +23,7 @@ The active mods are stacked in the following order:
 12. Capitalism Currency - 747539326
 13. Capitalism Admin Table - 784166441
 14. Capitalism Player Trader - 873749349
+15. (Discontinued) Healthbars & Torporbars v2 - 642284892
 
 You **will** have to visit the link below and click "Subscribe To All" in order to circumvent a re-occurring connection timeout issue.
 ```
@@ -49,5 +50,5 @@ https://www.youtube.com/playlist?list=PLxIRzMPoI2z4SOF3JibqpRcVDI0GypXvg
 
 ### Mod String
 ```
-761535755,731604991,914925774,663332507,479929837,751485984,893834064,561820195,1283689530,729352919,506506101,747539326,784166441,873749349
+761535755,731604991,914925774,663332507,479929837,751485984,893834064,561820195,1283689530,729352919,506506101,747539326,784166441,873749349,642284892
 ```
