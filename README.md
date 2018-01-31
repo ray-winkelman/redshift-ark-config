@@ -1,8 +1,11 @@
 # RedShift Ark Survival Evolved Official PvE Server Configuration & Guide
 The RedShift Ark Survival Evolved Server Introduction, and Configuration Files.
 
-#### Ark In A Box
-Currently, the repository is deployable by cloning it and running *_Update.bat followed by *_Run.bat script depending on the map of choice. If you replicate the RedShift configuration: be sure to give credit where it's due. Also, don't forget to copy the config files in /GlobalConfig to the /ShooterGame/Saved/Config/WindowsServer map folders downloaded by the *_Update.bat script.
+#### Ark In A Box Note For Server Admins
+A RedShift server instance is deployable by cloning this repository and running __*_Update.bat__ followed by __*_Run.bat__ depending on the map of choice. If you replicate the RedShift configuration: be sure to give credit where it's due, motherfucker. 
+> Also, don't forget to copy the config files in __/GlobalConfig__ to the __/ShooterGame/Saved/Config/WindowsServer__ map folders downloaded by the __*_Update.bat__ script.
+
+---
 
 ## Important Notice
 The server goes offline for exactly 12 minutes to run automated updates and data backups everyday at 6:00am (AST). Please be cognisant of the fact that you may be booted, but will not loose your current game progress.
@@ -12,7 +15,7 @@ The RedShift Ark server hosts The Center DLC map using the configuration files i
 
 ## Active Mods
 The active mods are stacked in the following order:
-1. (Discontinued) Healthbars & Torporbars v2 - [642284892](https://steamcommunity.com/sharedfiles/filedetails/?id=642284892)
+1. Healthbars & Torporbars v2 - [642284892](https://steamcommunity.com/sharedfiles/filedetails/?id=642284892)
 2. Ultra Stacks - [761535755](https://steamcommunity.com/sharedfiles/filedetails/?id=761535755)
 3. Structures Plus (S+) - [731604991](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991)
 4. Boosted Flyers+ [2.0] - [914925774](https://steamcommunity.com/sharedfiles/filedetails/?id=914925774)
