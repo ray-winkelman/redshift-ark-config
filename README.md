@@ -2,21 +2,27 @@
 The RedShift Ark Survival Evolved Server Introduction, and Configuration Files.
 
 ## Important Notice
-The server goes offline for exactly 12 minutes to run automated updates and data backups everyday at 6:30am (ADT). Please be cognisant of the fact that you may be booted, but will not loose your current game progress.
+The server goes offline for exactly 12 minutes to run automated updates and data backups everyday at 6:30am (AST). Please be cognisant of the fact that you may be booted, but will not loose your current game progress.
 
 ## Intro
 The RedShift Ark server hosts The Center DLC map using the configuration files in this repository. We have currency, and a banking system to spice up the Ark experince, as well as a combination of popular - and not-so popular - mods.
 
 ## Active Mods
 The active mods are stacked in the following order:
-1. ACM V2.6.8700 - 558079412
-2. Ultra Stacks - 761535755
-3. Structures Plus (S+) - 731604991
-4. Boosted Flyers+ [2.0] - 914925774
-5. Dragonpunk: Mythical Creatures - 848706943
-6. Capitalism Currency - 747539326
-7. Capitalism Admin Table - 784166441
-8. Capitalism Player Trader - 873749349
+1. Ultra Stacks - 761535755
+2. Structures Plus (S+) - 731604991
+3. Boosted Flyers+ [2.0] - 914925774
+4. NPC Bush People - 663332507
+5. Improved Dinos - Rare Spawns - 479929837
+6. More Narcotics v2.1 - 751485984
+7. Wooden Hanging Bridge - 893834064
+8. Dragon Gods - 561820195
+9. Super Small Forge Fast - 1283689530
+10. Indominus Rex Nemesis - 729352919
+11. Better Beacons 2.0 - 506506101
+12. Capitalism Currency - 747539326
+13. Capitalism Admin Table - 784166441
+14. Capitalism Player Trader - 873749349
 
 You **will** have to visit the link below and click "Subscribe To All" in order to circumvent a re-occurring connection timeout issue.
 ```
