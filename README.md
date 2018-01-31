@@ -19,7 +19,7 @@ The active mods are stacked in the following order:
 4. Boosted Flyers+ [2.0] - [914925774](https://steamcommunity.com/sharedfiles/filedetails/?id=914925774)
 5. NPC Bush People - [663332507](https://steamcommunity.com/sharedfiles/filedetails/?id=663332507)
 6. Improved Dinos - Rare Spawns - [479929837](https://steamcommunity.com/sharedfiles/filedetails/?id=479929837)
-7. More Narcotics v2.1 - [751485984](https://steamcommunity.com/sharedfiles/filedetails/?id=751485984)
+7. More Narcotics & More Tranq-Arrows Combined v2.1 - [754885087](https://steamcommunity.com/sharedfiles/filedetails/?id=754885087)
 8. Wooden Hanging Bridge - [893834064](https://steamcommunity.com/sharedfiles/filedetails/?id=893834064)
 9. Dragon Gods - [561820195](https://steamcommunity.com/sharedfiles/filedetails/?id=561820195)
 10. Super Small Forge Fast - [1283689530](https://steamcommunity.com/sharedfiles/filedetails/?id=1283689530)
@@ -49,5 +49,5 @@ https://www.youtube.com/playlist?list=PLxIRzMPoI2z4SOF3JibqpRcVDI0GypXvg
 ## Miscellaneous
 ### Mod String
 ```
-642284892,761535755,731604991,914925774,663332507,479929837,751485984,893834064,561820195,1283689530,729352919,506506101,747539326,784166441,873749349
+642284892,761535755,731604991,914925774,663332507,479929837,754885087,893834064,561820195,1283689530,729352919,506506101,747539326,784166441,873749349
 ```
