@@ -13,14 +13,10 @@ The active mods are stacked in the following order:
 2. Ultra Stacks - 761535755
 3. Structures Plus (S+) - 731604991
 4. Boosted Flyers+ [2.0] - 914925774
-5. Pet Finder - 566887000
-6. All Color Dinos - 478525616
-7. More Narcotics & More Tranq-Arrows Combined v2.1 - 754885087
-8. Dino Pick Up Mod - v1.2 - 870709781
-9. Dragonpunk: Mythical Creatures - 848706943
-10. Capitalism Currency - 747539326
-11. Capitalism Admin Table - 784166441
-12. Capitalism Player Trader - 873749349
+5. Dragonpunk: Mythical Creatures - 848706943
+6. Capitalism Currency - 747539326
+7. Capitalism Admin Table - 784166441
+8. Capitalism Player Trader - 873749349
 
 You **will** have to visit the link below and click "Subscribe To All" in order to circumvent a re-occurring connection timeout issue.
 ```
