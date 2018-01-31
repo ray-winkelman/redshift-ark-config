@@ -1,9 +1,9 @@
-# RedShift Ark Survival Evolved Official PvE Server Configuration & Guide
-The RedShift Ark Survival Evolved Server Introduction, and Configuration Files.
+# RedShift Ark Survival Evolved Official PvE Server
+The RedShift Ark Survival Evolved Server Introduction, Instructions, and Configuration.
 
-#### Ark In A Box Note For Server Admins
-A RedShift server instance is deployable by cloning this repository and running `*_Update.bat` followed by `*_Run.bat` depending on the map of choice. If you replicate the RedShift configuration: *Be sure to give credit where it's due!* 
-> Also, don't forget to copy the config files in `/GlobalConfig` to the `/ShooterGame/Saved/Config/WindowsServer` map folders downloaded by the `*_Update.bat` script.
+#### Ark-In-A-Box Notice (For Server Admins)
+A RedShift server instance is deployable by cloning this repository and running `*_Update.bat` followed by `*_Run.bat` with `*` depending on the map of choice. If you replicate the RedShift configuration: *Be sure to give credit where it's due!* 
+> Side Note: Don't forget to copy the config files in `/GlobalConfig` to the `/ShooterGame/Saved/Config/WindowsServer` folder downloaded by the `*_Update.bat` script.
 
 ## Important Notice
 The server goes offline for exactly 12 minutes to run automated updates and data backups everyday at 6:00am (AST). Please be cognisant of the fact that you may be booted, but will not loose your current game progress.
