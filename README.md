@@ -2,7 +2,7 @@
 The RedShift Ark Survival Evolved Server Introduction, and Configuration Files.
 
 ## Important Notice
-The server goes offline for exactly 12 minutes to run automated updates and data backups everyday at 6:30am (AST). Please be cognisant of the fact that you may be booted, but will not loose your current game progress.
+The server goes offline for exactly 12 minutes to run automated updates and data backups everyday at 6:00am (AST). Please be cognisant of the fact that you may be booted, but will not loose your current game progress.
 
 ## Intro
 The RedShift Ark server hosts The Center DLC map using the configuration files in this repository. We have currency, and a banking system to spice up the Ark experince, as well as a combination of popular - and not-so popular - mods.
@@ -46,3 +46,6 @@ To see your structures featured on our YouTube channel, smash the subscribe butt
 ```
 https://www.youtube.com/playlist?list=PLxIRzMPoI2z4SOF3JibqpRcVDI0GypXvg
 ```
+
+### Mod String
+761535755,731604991,914925774,663332507,479929837,751485984,893834064,561820195,1283689530,729352919,506506101,747539326,784166441,873749349
