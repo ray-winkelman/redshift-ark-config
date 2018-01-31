@@ -1,15 +1,19 @@
 # RedShift Ark Survival Evolved Official PvE Server
 ###### The RedShift Ark Survival Evolved Server Introduction, Instructions, and Configuration.
 
+
 #### Ark-In-A-Box Notice (For Server Admins)
 A RedShift server instance is deployable by cloning this repository and running `*_Update.bat` followed by `*_Run.bat` with `*` depending on the map of choice. If you replicate the RedShift configuration: *Be sure to give credit where it's due!* 
 > Side Note: Don't forget to copy the config files in `/GlobalConfig` to the `/ShooterGame/Saved/Config/WindowsServer` folder downloaded by the `*_Update.bat` script.
 
+
 ## Important Notice
 The server goes offline between 2 and 20 minutes to run automated updates and backups everyday at 6:00am (AST). Please be cognisant of the fact that you may be booted, but **will not loose your current game progress**.
 
-## Intro
+
+## Introduction
 The RedShift Ark server hosts The Center DLC map using the configuration files in this repository. We have currency, and a banking system to spice up the Ark experince, as well as a combination of popular - and not-so popular - mods.
+
 
 ## Active Mods
 The active mods are stacked in the following order:
@@ -29,8 +33,10 @@ The active mods are stacked in the following order:
 14. Capitalism Admin Table - [784166441](https://steamcommunity.com/sharedfiles/filedetails/?id=784166441)
 15. Capitalism Player Trader - [873749349](https://steamcommunity.com/sharedfiles/filedetails/?id=873749349)
 
-You may have to visit the Steam link below and click *Subscribe To All* in order to circumvent a recurring connection timeout issue.
-ARK: Survival Evolved > Workshop > Collections > RayBan's Workshop > [RedShift PvE Server Mod Stack](http://steamcommunity.com/sharedfiles/filedetails/?id=1138050972)
+You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
+
+> ARK: Survival Evolved > Workshop > Collections > RayBan's Workshop > [RedShift PvE Server Mod Stack](http://steamcommunity.com/sharedfiles/filedetails/?id=1138050972)
+
 
 ## URL For Manual Connections
 ```
@@ -38,8 +44,10 @@ https://redshiftark.duckdns.org:18616 (Steam)
 https://redshiftark.duckdns.org:18617 (RCON)
 ```
 
+
 ## YouTube Content Creators
 To see **YOUR** gameplay featured on [our YouTube channel](https://www.youtube.com/playlist?list=PLxIRzMPoI2z4SOF3JibqpRcVDI0GypXvg), smash the subscribe button. Streamer? Good. Permission to stream on the RedShift server is almost always granted.
+
 
 ## traceroute to 23.228.222.163
 There are 14 physical hops from Bell WAN Halifax to our server in New York. In-game ping is usually around 25ms in the Halifax area. 
@@ -65,6 +73,7 @@ traceroute to 23.228.222.163 (23.228.222.163), 30 hops max, 60 byte packets
 18  * * *
 19  * bb02-ip5.123thaihost.net (23.228.222.163)  84.970 ms *
 ```
+
 
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
