@@ -12,7 +12,7 @@ The server goes offline between 2 and 20 minutes to run automated updates and ba
 
 
 ## Introduction
-The RedShift Ark server hosts The Center DLC map using the configuration files in this repository. We have currency, and a banking system to spice up the Ark experince, as well as a combination of popular - and not-so popular - mods.
+The RedShift Ark server hosts The Center DLC map using the configuration files in this repository. We host a combination of popular - and not-so popular - mods.
 
 
 ## Active Mods
@@ -22,16 +22,15 @@ The active mods are stacked in the following order:
 3. Structures Plus (S+) - [731604991](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991)
 4. Boosted Flyers+ [2.0] - [914925774](https://steamcommunity.com/sharedfiles/filedetails/?id=914925774)
 5. NPC Bush People - [663332507](https://steamcommunity.com/sharedfiles/filedetails/?id=663332507)
-6. Improved Dinos - Rare Spawns - [479929837](https://steamcommunity.com/sharedfiles/filedetails/?id=479929837)
-7. More Narcotics & More Tranq-Arrows Combined v2.1 - [754885087](https://steamcommunity.com/sharedfiles/filedetails/?id=754885087)
-8. Wooden Hanging Bridge - [893834064](https://steamcommunity.com/sharedfiles/filedetails/?id=893834064)
-9. Dragon Gods - [561820195](https://steamcommunity.com/sharedfiles/filedetails/?id=561820195)
-10. Super Small Forge Fast - [1283689530](https://steamcommunity.com/sharedfiles/filedetails/?id=1283689530)
-11. Indominus Rex Nemesis - [729352919](https://steamcommunity.com/sharedfiles/filedetails/?id=729352919)
-12. Better Beacons 2.0 - [506506101](https://steamcommunity.com/sharedfiles/filedetails/?id=506506101)
-13. Capitalism Currency - [747539326](https://steamcommunity.com/sharedfiles/filedetails/?id=747539326)
-14. Capitalism Admin Table - [784166441](https://steamcommunity.com/sharedfiles/filedetails/?id=784166441)
-15. Capitalism Player Trader - [873749349](https://steamcommunity.com/sharedfiles/filedetails/?id=873749349)
+6. More Narcotics & More Tranq-Arrows Combined v2.1 - [754885087](https://steamcommunity.com/sharedfiles/filedetails/?id=754885087)
+7. Wooden Hanging Bridge - [893834064](https://steamcommunity.com/sharedfiles/filedetails/?id=893834064)
+8. Dragon Gods - [561820195](https://steamcommunity.com/sharedfiles/filedetails/?id=561820195)
+9. Super Small Forge Fast - [1283689530](https://steamcommunity.com/sharedfiles/filedetails/?id=1283689530)
+10. Better Beacons 2.0 - [506506101](https://steamcommunity.com/sharedfiles/filedetails/?id=506506101)
+11. Primal Fear - [839162288](https://steamcommunity.com/sharedfiles/filedetails/?id=839162288)
+12. Ammo Pools - [925789347](https://steamcommunity.com/sharedfiles/filedetails/?id=925789347)
+13. Upgrade Station v1.8h - [821530042](https://steamcommunity.com/sharedfiles/filedetails/?id=821530042)
+
 
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
@@ -78,5 +77,5 @@ traceroute to 23.228.222.163 (23.228.222.163), 30 hops max, 60 byte packets
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-642284892,761535755,731604991,914925774,663332507,479929837,754885087,893834064,561820195,1283689530,729352919,506506101,747539326,784166441,873749349
+642284892,761535755,731604991,914925774,663332507,754885087,893834064,561820195,1283689530,506506101,839162288,925789347,821530042
 ```
