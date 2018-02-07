@@ -31,7 +31,8 @@ The active mods are stacked in the following order:
 12. Ammo Pools - [925789347](https://steamcommunity.com/sharedfiles/filedetails/?id=925789347)
 13. Upgrade Station v1.8h - [821530042](https://steamcommunity.com/sharedfiles/filedetails/?id=821530042)
 14. Dino Tracker - [924933745](https://steamcommunity.com/sharedfiles/filedetails/?id=924933745)
-14. Iguanodon Seed Trainer - [1092349650](https://steamcommunity.com/sharedfiles/filedetails/?id=1092349650)
+15. Iguanodon Seed Trainer - [1092349650](https://steamcommunity.com/sharedfiles/filedetails/?id=1092349650)
+16. Fister's All Fog Remover - [1148802682](https://steamcommunity.com/sharedfiles/filedetails/?id=1148802682)
 
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
@@ -78,5 +79,5 @@ traceroute to 23.228.222.163 (23.228.222.163), 30 hops max, 60 byte packets
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-642284892,761535755,731604991,914925774,663332507,754885087,893834064,561820195,1283689530,506506101,839162288,925789347,821530042,924933745,1092349650
+642284892,761535755,731604991,914925774,663332507,754885087,893834064,561820195,1283689530,506506101,839162288,925789347,821530042,924933745,1092349650,1148802682
 ```
