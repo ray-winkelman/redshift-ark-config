@@ -33,6 +33,8 @@ The active mods are stacked in the following order:
 14. Dino Tracker - [924933745](https://steamcommunity.com/sharedfiles/filedetails/?id=924933745)
 15. Iguanodon Seed Trainer - [1092349650](https://steamcommunity.com/sharedfiles/filedetails/?id=1092349650)
 16. Fister's All Fog Remover - [1148802682](https://steamcommunity.com/sharedfiles/filedetails/?id=1148802682)
+17. Platforms Plus - [719928795](https://steamcommunity.com/sharedfiles/filedetails/?id=719928795)
+18. Snappy Saddles & Rafts - [725398419](https://steamcommunity.com/sharedfiles/filedetails/?id=725398419)
 
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
