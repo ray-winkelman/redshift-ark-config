@@ -21,20 +21,15 @@ The active mods are stacked in the following order:
 2. Ultra Stacks - [761535755](https://steamcommunity.com/sharedfiles/filedetails/?id=761535755)
 3. Structures Plus (S+) - [731604991](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991)
 4. Boosted Flyers+ [2.0] - [914925774](https://steamcommunity.com/sharedfiles/filedetails/?id=914925774)
-5. NPC Bush People - [663332507](https://steamcommunity.com/sharedfiles/filedetails/?id=663332507)
-6. More Narcotics & More Tranq-Arrows Combined v2.1 - [754885087](https://steamcommunity.com/sharedfiles/filedetails/?id=754885087)
-7. Wooden Hanging Bridge - [893834064](https://steamcommunity.com/sharedfiles/filedetails/?id=893834064)
-8. Dragon Gods - [561820195](https://steamcommunity.com/sharedfiles/filedetails/?id=561820195)
-9. Super Small Forge Fast - [1283689530](https://steamcommunity.com/sharedfiles/filedetails/?id=1283689530)
-10. Better Beacons 2.0 - [506506101](https://steamcommunity.com/sharedfiles/filedetails/?id=506506101)
-11. Primal Fear - [839162288](https://steamcommunity.com/sharedfiles/filedetails/?id=839162288)
-12. Ammo Pools - [925789347](https://steamcommunity.com/sharedfiles/filedetails/?id=925789347)
-13. Upgrade Station v1.8h - [821530042](https://steamcommunity.com/sharedfiles/filedetails/?id=821530042)
-14. Dino Tracker - [924933745](https://steamcommunity.com/sharedfiles/filedetails/?id=924933745)
-15. Iguanodon Seed Trainer - [1092349650](https://steamcommunity.com/sharedfiles/filedetails/?id=1092349650)
-16. Fister's All Fog Remover - [1148802682](https://steamcommunity.com/sharedfiles/filedetails/?id=1148802682)
-17. Platforms Plus - [719928795](https://steamcommunity.com/sharedfiles/filedetails/?id=719928795)
-18. Snappy Saddles & Rafts - [725398419](https://steamcommunity.com/sharedfiles/filedetails/?id=725398419)
+5. More Narcotics & More Tranq-Arrows Combined v2.1 - [754885087](https://steamcommunity.com/sharedfiles/filedetails/?id=754885087)
+6. Wooden Hanging Bridge - [893834064](https://steamcommunity.com/sharedfiles/filedetails/?id=893834064)
+7. Super Small Forge Fast - [1283689530](https://steamcommunity.com/sharedfiles/filedetails/?id=1283689530)
+8. Ammo Pools - [925789347](https://steamcommunity.com/sharedfiles/filedetails/?id=925789347)
+9. Dino Tracker - [924933745](https://steamcommunity.com/sharedfiles/filedetails/?id=924933745)
+10. Iguanodon Seed Trainer - [1092349650](https://steamcommunity.com/sharedfiles/filedetails/?id=1092349650)
+11. Fister's All Fog Remover - [1148802682](https://steamcommunity.com/sharedfiles/filedetails/?id=1148802682)
+12. Platforms Plus - [719928795](https://steamcommunity.com/sharedfiles/filedetails/?id=719928795)
+13. Snappy Saddles & Rafts - [725398419](https://steamcommunity.com/sharedfiles/filedetails/?id=725398419)
 
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
@@ -81,5 +76,5 @@ traceroute to 23.228.222.163 (23.228.222.163), 30 hops max, 60 byte packets
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-642284892,761535755,731604991,914925774,663332507,754885087,893834064,561820195,1283689530,506506101,839162288,925789347,821530042,924933745,1092349650,1148802682
+642284892,761535755,731604991,914925774,754885087,893834064,1283689530,925789347,924933745,1092349650,1148802682,719928795,725398419
 ```
