@@ -31,6 +31,7 @@ The active mods are stacked in the following order:
 12. Platforms Plus - [719928795](https://steamcommunity.com/sharedfiles/filedetails/?id=719928795)
 13. Snappy Saddles & Rafts - [725398419](https://steamcommunity.com/sharedfiles/filedetails/?id=725398419)
 14. Modded Dino Potions - [929085067](https://steamcommunity.com/sharedfiles/filedetails/?id=929085067)
+15. Dino Quick Recovery - [1277490425](https://steamcommunity.com/sharedfiles/filedetails/?id=1277490425)
 
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
@@ -77,5 +78,5 @@ traceroute to 23.228.222.163 (23.228.222.163), 30 hops max, 60 byte packets
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-642284892,761535755,731604991,914925774,754885087,893834064,1283689530,925789347,924933745,1092349650,1148802682,719928795,725398419,929085067
+642284892,761535755,731604991,914925774,754885087,893834064,1283689530,925789347,924933745,1092349650,1148802682,719928795,725398419,929085067,1277490425
 ```
