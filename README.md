@@ -32,6 +32,7 @@ The active mods are stacked in the following order:
 13. Snappy Saddles & Rafts - [725398419](https://steamcommunity.com/sharedfiles/filedetails/?id=725398419)
 14. Modded Dino Potions - [929085067](https://steamcommunity.com/sharedfiles/filedetails/?id=929085067)
 15. Dino Quick Recovery - [1277490425](https://steamcommunity.com/sharedfiles/filedetails/?id=1277490425)
+16. Oil Pump - [828521689](https://steamcommunity.com/sharedfiles/filedetails/?id=828521689)
 
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
