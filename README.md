@@ -18,7 +18,7 @@ The RedShift Ark server hosts The Center DLC map using the configuration files i
 ## Active Mods
 The active mods are stacked in the following order:
 1. Healthbars & Torporbars v2 - [642284892](https://steamcommunity.com/sharedfiles/filedetails/?id=642284892)  
-   *To configure 'Healthbars & Torporbars' press the "Home" key to open the mod's menu.*
+   *To configure 'Healthbars & Torporbars' press the "Home" key in-game to open the mod's menu.*
 2. Ultra Stacks - [761535755](https://steamcommunity.com/sharedfiles/filedetails/?id=761535755)
 3. Structures Plus (S+) - [731604991](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991)
 4. Boosted Flyers+ 2.0 - [914925774](https://steamcommunity.com/sharedfiles/filedetails/?id=914925774)
