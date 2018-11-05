@@ -20,24 +20,26 @@ The active mods are stacked in the following order:
 1. Healthbars & Torporbars v2 - [642284892](https://steamcommunity.com/sharedfiles/filedetails/?id=642284892)
 2. Ultra Stacks - [761535755](https://steamcommunity.com/sharedfiles/filedetails/?id=761535755)
 3. Structures Plus (S+) - [731604991](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991)
-4. Boosted Flyers+ [2.0] - [914925774](https://steamcommunity.com/sharedfiles/filedetails/?id=914925774)
+4. Boosted Flyers+ 2.0 - [914925774](https://steamcommunity.com/sharedfiles/filedetails/?id=914925774)
 5. More Narcotics & More Tranq-Arrows Combined v2.1 - [754885087](https://steamcommunity.com/sharedfiles/filedetails/?id=754885087)
-6. Wooden Hanging Bridge - [893834064](https://steamcommunity.com/sharedfiles/filedetails/?id=893834064)
-7. Super Small Forge Fast - [1283689530](https://steamcommunity.com/sharedfiles/filedetails/?id=1283689530)
-8. Ammo Pools - [925789347](https://steamcommunity.com/sharedfiles/filedetails/?id=925789347)
-9. Dino Tracker - [924933745](https://steamcommunity.com/sharedfiles/filedetails/?id=924933745)
-10. Iguanodon Seed Trainer - [1092349650](https://steamcommunity.com/sharedfiles/filedetails/?id=1092349650)
-11. Fister's All Fog Remover - [1148802682](https://steamcommunity.com/sharedfiles/filedetails/?id=1148802682)
-12. Platforms Plus - [719928795](https://steamcommunity.com/sharedfiles/filedetails/?id=719928795)
-13. Snappy Saddles & Rafts - [725398419](https://steamcommunity.com/sharedfiles/filedetails/?id=725398419)
-14. Modded Dino Potions - [929085067](https://steamcommunity.com/sharedfiles/filedetails/?id=929085067)
-15. Dino Quick Recovery - [1277490425](https://steamcommunity.com/sharedfiles/filedetails/?id=1277490425)
-16. Oil Pump - [828521689](https://steamcommunity.com/sharedfiles/filedetails/?id=828521689)
+6. Super Small Forge Fast - [1283689530](https://steamcommunity.com/sharedfiles/filedetails/?id=1283689530)
+7. Ammo Pools - [925789347](https://steamcommunity.com/sharedfiles/filedetails/?id=925789347)
+8. Dino Tracker - [924933745](https://steamcommunity.com/sharedfiles/filedetails/?id=924933745)
+9. Iguanodon Seed Trainer - [1092349650](https://steamcommunity.com/sharedfiles/filedetails/?id=1092349650)
+10. Platforms Plus - [719928795](https://steamcommunity.com/sharedfiles/filedetails/?id=719928795)
+11. Snappy Saddles & Rafts - [725398419](https://steamcommunity.com/sharedfiles/filedetails/?id=725398419)
+12. Dino Quick Recovery - [1277490425](https://steamcommunity.com/sharedfiles/filedetails/?id=1277490425)
+13. Oil Pump - [828521689](https://steamcommunity.com/sharedfiles/filedetails/?id=828521689)
+14. All Dinos Allow Guns - [1440414363](https://steamcommunity.com/sharedfiles/filedetails/?id=1440414363)
 
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
 > ARK: Survival Evolved > Workshop > Collections > RayBan's Workshop > [RedShift PvE Server Mod Stack](http://steamcommunity.com/sharedfiles/filedetails/?id=1138050972)
 
+### How To Use Healthbars & Torporbars v2
+1. Press the "Home" key to open the mod's menu.
+2. Press F7 to toggle the health bars.
+3. Press F8 to toggle the infomational text.
 
 ## URL For Manual Connections
 ```
