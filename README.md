@@ -12,7 +12,7 @@ The server goes offline between 2 and 20 minutes to run automated updates and ba
 
 
 ## Introduction
-The RedShift Ark server hosts The Center DLC map using the configuration files in this repository. We host a combination of popular - and not-so popular - mods.
+The RedShift Ark server rotates and hosts survivors on official maps using the configuration files in this repository. We improve the Ark experience with an interesting combination of popular and supported mods.
 
 
 ## Active Mods
@@ -35,7 +35,7 @@ The active mods are stacked in the following order:
 
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
-> ARK: Survival Evolved > Workshop > Collections > RayBan's Workshop > [RedShift PvE Server Mod Stack](http://steamcommunity.com/sharedfiles/filedetails/?id=1138050972)
+> ARK: Survival Evolved > Workshop > Collections > RayBan's Workshop > [RedShift PvP Server Mod Stack](http://steamcommunity.com/sharedfiles/filedetails/?id=1138050972)
 
 ## URL For Manual Connections
 ```
