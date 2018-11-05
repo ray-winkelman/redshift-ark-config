@@ -1,4 +1,4 @@
-# RedShift Ark Survival Evolved Official PvE Server
+# RedShift Ark Survival Evolved Official PvP Server
 ###### The RedShift Ark Survival Evolved Server Introduction, Instructions, and Configuration.
 Join us on Discord [here](https://discord.gg/vrkuGZf).
 
@@ -18,6 +18,7 @@ The RedShift Ark server hosts The Center DLC map using the configuration files i
 ## Active Mods
 The active mods are stacked in the following order:
 1. Healthbars & Torporbars v2 - [642284892](https://steamcommunity.com/sharedfiles/filedetails/?id=642284892)
+   To configure 'Healthbars & Torporbars' press the "Home" key to open the mod's menu.
 2. Ultra Stacks - [761535755](https://steamcommunity.com/sharedfiles/filedetails/?id=761535755)
 3. Structures Plus (S+) - [731604991](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991)
 4. Boosted Flyers+ 2.0 - [914925774](https://steamcommunity.com/sharedfiles/filedetails/?id=914925774)
@@ -35,11 +36,6 @@ The active mods are stacked in the following order:
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
 > ARK: Survival Evolved > Workshop > Collections > RayBan's Workshop > [RedShift PvE Server Mod Stack](http://steamcommunity.com/sharedfiles/filedetails/?id=1138050972)
-
-### How To Use Healthbars & Torporbars v2
-1. Press the "Home" key to open the mod's menu.
-2. Press F7 to toggle the health bars.
-3. Press F8 to toggle the infomational text.
 
 ## URL For Manual Connections
 ```
@@ -81,5 +77,5 @@ traceroute to 23.228.222.163 (23.228.222.163), 30 hops max, 60 byte packets
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-642284892,761535755,731604991,914925774,754885087,893834064,1283689530,925789347,924933745,1092349650,1148802682,719928795,725398419,929085067,1277490425
+642284892,761535755,731604991,914925774,754885087,1283689530,925789347,1092349650,719928795,725398419,1277490425,828521689,1440414363
 ```
