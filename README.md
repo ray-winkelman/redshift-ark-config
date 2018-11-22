@@ -30,8 +30,7 @@ The active mods are stacked in the following order:
 10. Platforms Plus - [719928795](https://steamcommunity.com/sharedfiles/filedetails/?id=719928795)
 11. Snappy Saddles & Rafts - [725398419](https://steamcommunity.com/sharedfiles/filedetails/?id=725398419)
 12. Dino Quick Recovery - [1277490425](https://steamcommunity.com/sharedfiles/filedetails/?id=1277490425)
-13. Oil Pump - [828521689](https://steamcommunity.com/sharedfiles/filedetails/?id=828521689)
-14. All Dinos Allow Guns - [1440414363](https://steamcommunity.com/sharedfiles/filedetails/?id=1440414363)
+13. All Dinos Allow Guns - [1440414363](https://steamcommunity.com/sharedfiles/filedetails/?id=1440414363)
 
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
@@ -77,5 +76,5 @@ traceroute to 23.228.222.163 (23.228.222.163), 30 hops max, 60 byte packets
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-642284892,761535755,731604991,914925774,754885087,1283689530,925789347,1092349650,719928795,725398419,1277490425,828521689,1440414363
+642284892,761535755,731604991,914925774,754885087,1283689530,925789347,1092349650,719928795,725398419,1277490425,1440414363
 ```
