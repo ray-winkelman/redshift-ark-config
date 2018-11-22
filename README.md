@@ -38,8 +38,7 @@ You may have to visit the Steam link below and click **_Subscribe To All_** in o
 
 ## URL For Manual Connections
 ```
-https://redshiftark.duckdns.org:18616 (Steam)
-https://redshiftark.duckdns.org:18617 (RCON)
+23.228.222.163:18617 (RCON)
 ```
 
 
@@ -48,28 +47,20 @@ To see **YOUR** gameplay featured on [our YouTube channel](https://www.youtube.c
 
 
 ## traceroute to 23.228.222.163
-There are 14 physical hops from Bell WAN Halifax to our server in New York. In-game ping is usually around 25ms in the Halifax area. 
+There are only 10 physical hops from Bell WAN Halifax to our server in New York. In-game ping is usually around 25ms in the Halifax area. 
 ```
 traceroute to 23.228.222.163 (23.228.222.163), 30 hops max, 60 byte packets
- 1  192.168.10.1 (192.168.10.1)  1.215 ms  1.206 ms  1.282 ms
- 2  192.168.2.1 (192.168.2.1)  1.447 ms  1.515 ms  1.512 ms
- 3  loop0.7vw.ba18.hlfx.ns.aliant.net (142.176.50.20)  4.484 ms  4.334 ms  4.40s
- 4  be12-181.cr01.hlfx.ns.aliant.net (142.166.181.17)  4.743 ms ae13-182.cr02.hs
- 5  hg-0-2-0-0-50.cr01.hlfx.ns.aliant.net (142.166.149.93)  4.699 ms  4.791 ms s
- 6  be16.cr01.stjh.nb.aliant.net (142.166.185.65)  7.676 ms  5.182 ms be5.bx01.s
- 7  be5.bx01.nycm.ny.aliant.net (207.231.227.114)  21.007 ms bx7-newyork83hu0-6s
- 8  bx7-newyork83hu0-6-0-1 (184.150.181.164)  29.241 ms  29.110 ms te-0-6-0-20-s
- 9  te-0-6-0-20-pe03.111eighthave.ny.ibone.comcast.net (173.167.56.109)  31.903s
-10  be-10390-cr02.newyork.ny.ibone.comcast.net (68.86.83.89)  26.096 ms be-1020s
-11  be-10102-cr02.ashburn.va.ibone.comcast.net (68.86.85.161)  31.148 ms  31.23s
-12  be-10114-cr02.56marietta.ga.ibone.comcast.net (68.86.85.10)  46.237 ms be-1s
-13  be-11424-cr02.dallas.tx.ibone.comcast.net (68.86.85.22)  59.610 ms  59.615 s
-14  be-11524-cr02.losangeles.ca.ibone.comcast.net (68.86.87.173)  92.484 ms be-s
-15  be-11524-cr02.losangeles.ca.ibone.comcast.net (68.86.87.173)  92.442 ms  92s
-16  ae10-lax.comcast.AS40676.net (23.238.223.49)  85.237 ms be-11599-pe01.losans
-17  * ae10-lax.comcast.AS40676.net (23.238.223.49)  83.456 ms *
-18  * * *
-19  * bb02-ip5.123thaihost.net (23.228.222.163)  84.970 ms *
+ 1  mynetwork (192.168.2.1)  0.342 ms  0.321 ms  0.394 ms
+ 2  loop0.7vw.ba18.hlfx.ns.aliant.net (142.176.50.20)  1.358 ms  1.435 ms  1.42s
+ 3  ae13-182.cr02.hlfx.ns.aliant.net (142.166.181.21)  6.347 ms  6.425 ms  6.39s
+ 4  hg-0-2-0-0-50.cr01.hlfx.ns.aliant.net (142.166.149.93)  7.303 ms be16.cr01.s
+ 5  be5.bx01.nycm.ny.aliant.net (207.231.227.114)  25.637 ms be16.cr01.stjh.nb.s
+ 6  be5.bx01.nycm.ny.aliant.net (207.231.227.114)  25.754 ms ae6.cr8-nyc3.ip4.gs
+ 7  et-0-0-59.cr3-lax2.ip4.gtt.net (89.149.130.94)  87.968 ms  87.941 ms  87.94s
+ 8  et-0-0-59.cr3-lax2.ip4.gtt.net (89.149.130.94)  88.025 ms  89.696 ms  89.55s
+ 9  * * *
+10  bb02-ip5.123thaihost.net (23.228.222.163)  89.308 ms  89.166 ms *
+
 ```
 
 
