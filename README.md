@@ -20,17 +20,16 @@ The active mods are stacked in the following order:
 1. Healthbars & Torporbars v2 - [642284892](https://steamcommunity.com/sharedfiles/filedetails/?id=642284892)  
    *To configure 'Healthbars & Torporbars' press the "Home" key in-game to open the mod's menu.*
 2. Ultra Stacks - [761535755](https://steamcommunity.com/sharedfiles/filedetails/?id=761535755)
-3. Structures Plus (S+) - [731604991](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991)
-4. Boosted Flyers+ 2.0 - [914925774](https://steamcommunity.com/sharedfiles/filedetails/?id=914925774)
-5. More Narcotics & More Tranq-Arrows Combined v2.1 - [754885087](https://steamcommunity.com/sharedfiles/filedetails/?id=754885087)
-6. Super Small Forge Fast - [1283689530](https://steamcommunity.com/sharedfiles/filedetails/?id=1283689530)
-7. Ammo Pools - [925789347](https://steamcommunity.com/sharedfiles/filedetails/?id=925789347)
-8. Dino Tracker - [924933745](https://steamcommunity.com/sharedfiles/filedetails/?id=924933745)
-9. Iguanodon Seed Trainer - [1092349650](https://steamcommunity.com/sharedfiles/filedetails/?id=1092349650)
-10. Platforms Plus - [719928795](https://steamcommunity.com/sharedfiles/filedetails/?id=719928795)
-11. Snappy Saddles & Rafts - [725398419](https://steamcommunity.com/sharedfiles/filedetails/?id=725398419)
-12. Dino Quick Recovery - [1277490425](https://steamcommunity.com/sharedfiles/filedetails/?id=1277490425)
-13. All Dinos Allow Guns - [1440414363](https://steamcommunity.com/sharedfiles/filedetails/?id=1440414363)
+3. Boosted Flyers+ 2.0 - [914925774](https://steamcommunity.com/sharedfiles/filedetails/?id=914925774)
+4. More Narcotics & More Tranq-Arrows Combined v2.1 - [754885087](https://steamcommunity.com/sharedfiles/filedetails/?id=754885087)
+5. Super Small Forge Fast - [1283689530](https://steamcommunity.com/sharedfiles/filedetails/?id=1283689530)
+6. Ammo Pools - [925789347](https://steamcommunity.com/sharedfiles/filedetails/?id=925789347)
+7. Dino Tracker - [924933745](https://steamcommunity.com/sharedfiles/filedetails/?id=924933745)
+8. Iguanodon Seed Trainer - [1092349650](https://steamcommunity.com/sharedfiles/filedetails/?id=1092349650)
+9. Platforms Plus - [719928795](https://steamcommunity.com/sharedfiles/filedetails/?id=719928795)
+10. Snappy Saddles & Rafts - [725398419](https://steamcommunity.com/sharedfiles/filedetails/?id=725398419)
+11. Dino Quick Recovery - [1277490425](https://steamcommunity.com/sharedfiles/filedetails/?id=1277490425)
+12. All Dinos Allow Guns - [1440414363](https://steamcommunity.com/sharedfiles/filedetails/?id=1440414363)
 
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
@@ -67,5 +66,5 @@ traceroute to 23.228.222.163 (23.228.222.163), 30 hops max, 60 byte packets
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-642284892,761535755,731604991,914925774,754885087,1283689530,925789347,1092349650,719928795,725398419,1277490425,1440414363
+642284892,761535755,914925774,754885087,1283689530,925789347,1092349650,719928795,725398419,1277490425,1440414363
 ```
