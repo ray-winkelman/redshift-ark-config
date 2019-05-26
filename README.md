@@ -17,19 +17,18 @@ The RedShift Ark server rotates and hosts survivors on official maps using the c
 
 ## Active Mods
 The active mods are stacked in the following order:
-1. Structures Plus (Open Source) - [731604991](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991)  
-2. Healthbars & Torporbars v2 - [642284892](https://steamcommunity.com/sharedfiles/filedetails/?id=642284892)  
+1. Healthbars & Torporbars v2 - [642284892](https://steamcommunity.com/sharedfiles/filedetails/?id=642284892)  
    *To configure 'Healthbars & Torporbars' press the "Home" key in-game to open the mod's menu.*
+2. Structures Plus (Open Source) - [731604991](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991)  
 3. Ultra Stacks - [761535755](https://steamcommunity.com/sharedfiles/filedetails/?id=761535755)
 4. Boosted Flyers+ 2.0 - [914925774](https://steamcommunity.com/sharedfiles/filedetails/?id=914925774)
 5. More Narcotics & More Tranq-Arrows Combined v2.1 - [754885087](https://steamcommunity.com/sharedfiles/filedetails/?id=754885087)
-6. Super Small Forge Fast - [1283689530](https://steamcommunity.com/sharedfiles/filedetails/?id=1283689530)
+6. Fast Forge - [1208353384](https://steamcommunity.com/sharedfiles/filedetails/?id=1208353384)
 7. Ammo Pools - [925789347](https://steamcommunity.com/sharedfiles/filedetails/?id=925789347)
-8. Dino Tracker - [924933745](https://steamcommunity.com/sharedfiles/filedetails/?id=924933745)
-9. Platforms Plus - [719928795](https://steamcommunity.com/sharedfiles/filedetails/?id=719928795)
-10. Snappy Saddles & Rafts - [725398419](https://steamcommunity.com/sharedfiles/filedetails/?id=725398419)
-11. Dino Quick Recovery - [1277490425](https://steamcommunity.com/sharedfiles/filedetails/?id=1277490425)
-12. All Dinos Allow Guns - [1440414363](https://steamcommunity.com/sharedfiles/filedetails/?id=1440414363)
+8. Platforms Plus - [719928795](https://steamcommunity.com/sharedfiles/filedetails/?id=719928795)
+9. Snappy Saddles & Rafts - [725398419](https://steamcommunity.com/sharedfiles/filedetails/?id=725398419)
+10. Dino Quick Recovery - [1277490425](https://steamcommunity.com/sharedfiles/filedetails/?id=1277490425)
+11. All Dinos Allow Guns - [1440414363](https://steamcommunity.com/sharedfiles/filedetails/?id=1440414363)
 
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
@@ -37,34 +36,12 @@ You may have to visit the Steam link below and click **_Subscribe To All_** in o
 
 ## URL For Manual Connections
 ```
-23.228.222.163:18617 (RCON)
-```
-
-
-## YouTube Content Creators
-To see **YOUR** gameplay featured on [our YouTube channel](https://www.youtube.com/playlist?list=PLxIRzMPoI2z4SOF3JibqpRcVDI0GypXvg), smash the subscribe button. Streamer? Good. Permission to stream on the RedShift server is almost always granted.
-
-
-## traceroute to 23.228.222.163
-There are only 10 physical hops from Bell WAN Halifax to our server in New York. In-game ping is usually around 25ms in the Halifax area. 
-```
-traceroute to 23.228.222.163 (23.228.222.163), 30 hops max, 60 byte packets
- 1  mynetwork (192.168.2.1)  0.342 ms  0.321 ms  0.394 ms
- 2  loop0.7vw.ba18.hlfx.ns.aliant.net (142.176.50.20)  1.358 ms  1.435 ms  1.42s
- 3  ae13-182.cr02.hlfx.ns.aliant.net (142.166.181.21)  6.347 ms  6.425 ms  6.39s
- 4  hg-0-2-0-0-50.cr01.hlfx.ns.aliant.net (142.166.149.93)  7.303 ms be16.cr01.s
- 5  be5.bx01.nycm.ny.aliant.net (207.231.227.114)  25.637 ms be16.cr01.stjh.nb.s
- 6  be5.bx01.nycm.ny.aliant.net (207.231.227.114)  25.754 ms ae6.cr8-nyc3.ip4.gs
- 7  et-0-0-59.cr3-lax2.ip4.gtt.net (89.149.130.94)  87.968 ms  87.941 ms  87.94s
- 8  et-0-0-59.cr3-lax2.ip4.gtt.net (89.149.130.94)  88.025 ms  89.696 ms  89.55s
- 9  * * *
-10  bb02-ip5.123thaihost.net (23.228.222.163)  89.308 ms  89.166 ms *
-
+107.173.81.146:20617 (RCON)
 ```
 
 
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-731604991,642284892,761535755,914925774,754885087,1283689530,925789347,924933745,719928795,725398419,1277490425,1440414363
+731604991,642284892,761535755,914925774,754885087,1208353384,925789347,719928795,725398419,1277490425,1440414363
 ```
