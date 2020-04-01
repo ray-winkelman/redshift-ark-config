@@ -12,7 +12,7 @@ The server goes offline between 2 and 20 minutes to run automated updates and ba
 
 
 ## Introduction
-The RedShift Ark server rotates and hosts survivors on official maps using the configuration files in this repository. We improve the Ark experience with an interesting combination of popular and supported mods.
+The RedShift Ark server rotates and hosts survivors on official maps using the configuration files in this repository. We improve the Ark experience with an interesting combination of popular and supported mods. The map is in PvP mode between 17:30 and 5:30 game time (after dark), and PvE during the day.
 
 
 ## Active Mods
