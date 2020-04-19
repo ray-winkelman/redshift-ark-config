@@ -19,7 +19,7 @@ The RedShift Ark server rotates and hosts survivors on official maps using the c
 The active mods are stacked in the following order:
 1. Healthbars & Torporbars v2 - [642284892](https://steamcommunity.com/sharedfiles/filedetails/?id=642284892)  
    *To configure 'Healthbars & Torporbars' press the "Home" key in-game to open the mod's menu.*
-2. Structures Plus (Open Source) - [731604991](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991)  
+2. Super Structures - [1999447172](https://steamcommunity.com/sharedfiles/filedetails/?id=1999447172)  
 3. Ultra Stacks - [761535755](https://steamcommunity.com/sharedfiles/filedetails/?id=761535755)
 4. Boosted Flyers+ 2.0 - [914925774](https://steamcommunity.com/sharedfiles/filedetails/?id=914925774)
 5. More Narcotics & More Tranq-Arrows Combined v2.1 - [754885087](https://steamcommunity.com/sharedfiles/filedetails/?id=754885087)
@@ -44,5 +44,5 @@ You may have to visit the Steam link below and click **_Subscribe To All_** in o
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-642284892,731604991,761535755,914925774,754885087,1208353384,925789347,719928795,725398419,1277490425,1440414363,1398863801
+642284892,1999447172,761535755,914925774,754885087,1208353384,925789347,719928795,725398419,1277490425,1440414363,1398863801
 ```
