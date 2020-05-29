@@ -30,6 +30,7 @@ The active mods are stacked in the following order:
 10. Dino Quick Recovery - [1277490425](https://steamcommunity.com/sharedfiles/filedetails/?id=1277490425)
 11. All Dinos Allow Guns - [1440414363](https://steamcommunity.com/sharedfiles/filedetails/?id=1440414363)
 12. Boss Arena Tweaker - [1398863801](https://steamcommunity.com/sharedfiles/filedetails/?id=1398863801)
+13. Fisters All Fog Remover - [1148802682](https://steamcommunity.com/sharedfiles/filedetails/?id=1148802682)
 
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
@@ -44,5 +45,5 @@ You may have to visit the Steam link below and click **_Subscribe To All_** in o
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-642284892,1999447172,761535755,914925774,754885087,1208353384,925789347,719928795,725398419,1277490425,1440414363,1398863801
+642284892,1999447172,761535755,914925774,754885087,1208353384,925789347,719928795,725398419,1277490425,1440414363,1398863801,1148802682
 ```
