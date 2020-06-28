@@ -1,0 +1,57 @@
+ISLAND
+
+(Broodmother Easy) - PrimalItem_BossTribute_Spider_Easy_C
+(Broodmother Medium) - PrimalItem_BossTribute_Spider_Medium_C
+(Broodmother Hard) - PrimalItem_BossTribute_Spider_Hard_C
+
+(Megapithecus Easy) - PrimalItem_BossTribute_Gorilla_Easy_C
+(Megapithecus Medium) - PrimalItem_BossTribute_Gorilla_Medium_C
+(Megapithecus Hard) - PrimalItem_BossTribute_Gorilla_Hard_C
+
+(Dragon Easy) - PrimalItem_BossTribute_Dragon_Easy_C
+(Dragon Medium) - PrimalItem_BossTribute_Dragon_Medium_C
+(Dragon Hard) - PrimalItem_BossTribute_Dragon_Hard_C
+
+(Ascension Cave Easy) - PrimalItem_DungeonEntrance_TekCave_Easy_C
+(Ascension Cave Medium) - PrimalItem_DungeonEntrance_TekCave_Medium_C
+(Ascension Cave Hard) - PrimalItem_DungeonEntrance_TekCave_Hard_C
+
+Scorched Earth
+
+(Manticore Easy) - PrimalItem_BossTribute_Manticore_Easy_C
+(Manticore Medium) - PrimalItem_BossTribute_Manticore_Medium_C
+(Manticore Hard) - PrimalItem_BossTribute_Manticore_Hard_C
+
+Aberration
+
+(Rockwell Easy) - PrimalItem_BossTribute_Aberration_Easy_C
+(Rockwell Medium) - PrimalItem_BossTribute_Aberration_Medium_C
+(Rockwell Hard) - PrimalItem_BossTribute_Aberration_Hard_C
+
+Extinction
+
+(Desert Titan) - PrimalItem_BossTribute_DesertKaiju_C
+(Ice Titan) - PrimalItem_BossTribute_IceKaiju_C
+(Forest Titan) - PrimalItem_BossTribute_ForestKaiju_C
+
+(King Titan Easy) - PrimalItem_BossTribute_KingKaijuEasy_C
+(King Titan Medium) - PrimalItem_BossTribute_KingKaijuMedium_C
+(King Titan Hard) - PrimalItem_BossTribute_KingKaijuHard_C
+
+Center
+
+(Center Easy) - PrimalItem_BossTribute_TheCenter_C
+(Center Medium) - PrimalItem_BossTribute_TheCenter_Medium_C
+(Center Hard) - PrimalItem_BossTribute_TheCenter_Hard_C
+
+Ragnarok
+
+(Ragnarok Easy) - PrimalItem_BossTribute_Ragnarok_C
+(Ragnarok Medium) - PrimalItem_BossTribute_Ragnarok_Medium_C
+(Ragnarok Hard) - PrimalItem_BossTribute_Ragnarok_Hard_C
+
+Valguero
+
+(Valguero Easy) - PrimalItem_BossTribute_ValThreeBoss_Easy_C
+(Valguero Medium) - PrimalItem_BossTribute_ValThreeBoss_Medium_C
+(Valguero Hard) - PrimalItem_BossTribute_ValThreeBoss_Hard_C
