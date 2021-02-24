@@ -31,7 +31,8 @@ The active mods are stacked in the following order:
 11. All Dinos Allow Guns - [1440414363](https://steamcommunity.com/sharedfiles/filedetails/?id=1440414363)
 12. Boss Arena Tweaker - [1398863801](https://steamcommunity.com/sharedfiles/filedetails/?id=1398863801)
 13. Fisters All Fog Remover - [1148802682](https://steamcommunity.com/sharedfiles/filedetails/?id=1148802682)
-
+14. Dino Tracker - [924933745](https://steamcommunity.com/sharedfiles/filedetails/?id=924933745)
+15. All Skins Chest - [813463849](https://steamcommunity.com/sharedfiles/filedetails/?id=813463849)
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
 > ARK: Survival Evolved > Workshop > Collections > RayBan's Workshop > [RedShift Ark Server Mod Stack](http://steamcommunity.com/sharedfiles/filedetails/?id=1138050972)
