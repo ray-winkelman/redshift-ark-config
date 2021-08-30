@@ -42,6 +42,12 @@ The active mods are stacked in the following order:
 23. Unlock Haircuts and Emotes - 942185438
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
+###### Miscellaneous: Mod String Safe Mode
+I refer to this csv string for server reboots occasionally. 
+```
+642284892,761535755,731604991,754885087,1208353384,1404697612,719928795,725398419,1440414363,1398863801,1148802682
+```
+
 
 > ARK: Survival Evolved > Workshop > Collections > RayBan's Workshop > [RedShift Ark Server Mod Stack](http://steamcommunity.com/sharedfiles/filedetails/?id=1138050972)
 
@@ -54,5 +60,5 @@ You may have to visit the Steam link below and click **_Subscribe To All_** in o
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-642284892,761535755,731604991,895711211,754885087,1208353384,1404697612,889745138,719928795,725398419,2007400172,2007411835,2007447056,558651608,670764308,902616446,1440414363,1398863801,1148802682,1267677473,813463849,942185438
+642284892,761535755,731604991,895711211,754885087,1208353384,1404697612,719928795,725398419,2007400172,2007411835,2007447056,558651608,670764308,902616446,1440414363,1398863801,1148802682,1267677473,813463849,942185438
 ```
