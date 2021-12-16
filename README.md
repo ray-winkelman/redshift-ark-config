@@ -16,38 +16,21 @@ The RedShift Ark server rotates and hosts survivors on official maps using the c
 
 ## Active Mods
 The active mods are stacked in the following order:
-1. Healthbars & Torporbars v2 - 642284892
-   *To configure 'Healthbars & Torporbars' press the "Home" key in-game to open the mod's menu.*
-2. Structures Plus (Open Source) - 731604991
-3. Ultra Stacks - 761535755
-4. Classic Flyers - 895711211
-5. More Narcotics & More Tranq-Arrows Combined v2.1 - 754885087
-6. Fast Forge - 1208353384
-7. Awesome SpyGlass! - 1404697612
-8. Awesome Teleporters! - 889745138
-9. Platforms Plus - 719928795
-10. Snappy Saddles & Rafts - 725398419
-11. Automated Ark 3 CORE - v3.096 - 2007400172
-12. Automated Ark Add-on: Automation - 2007411835
-13. Automated Ark Add-on: Power Generation - 2007447056
-14. Bridge - 558651608
-15. eco Trees - 670764308
-16. *(Removed)* Better Beacons 2.0 - 506506101
-17. Dino Colourizer! - 902616446
-18. All Dinos Allow Guns - 1440414363
-19. Boss Arena Tweaker - 1398863801
-20. Fisters All Fog Remover - 1148802682
-21. All Skins Chest - 813463849
-22. Cross Aberration - 1267677473
-23. Unlock Haircuts and Emotes - 942185438
+1. Structures Plus (Open Source) - 731604991
+2. Ultra Stacks - 761535755
+3. Automated Ark 3 CORE - v3.096 - 2007400172
+4. Automated Ark Add-on: Power Generation - 2007447056
+5. Classic Flyers - 895711211
+6. All Dinos Allow Guns - 1440414363
+7. Boss Arena Tweaker - 1398863801
+8. More Narcotics & More Tranq-Arrows Combined v2.1 - 754885087
+9. Fast Forge - 1208353384
+10. Awesome SpyGlass! - 1404697612
+11. Snappy Saddles & Rafts - 725398419
+12. eco Trees - 670764308
+13. All Skins Chest - 813463849
+14. Unlock Haircuts and Emotes - 942185438
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
-
-###### Miscellaneous: Mod String Safe Mode
-I refer to this csv string for server reboots occasionally. 
-```
-642284892,761535755,731604991,754885087,1208353384,1404697612,719928795,725398419,1440414363,1398863801,1148802682
-```
-
 
 > ARK: Survival Evolved > Workshop > Collections > RayBan's Workshop > [RedShift Ark Server Mod Stack](http://steamcommunity.com/sharedfiles/filedetails/?id=1138050972)
 
@@ -56,9 +39,8 @@ I refer to this csv string for server reboots occasionally.
 107.173.81.58:30317 (RCON)
 ```
 
-
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-642284892,761535755,731604991,895711211,754885087,1208353384,1404697612,719928795,725398419,2007400172,2007411835,2007447056,558651608,670764308,902616446,1440414363,1398863801,1148802682,1267677473,813463849,942185438
+731604991,761535755,2007400172,2007447056,895711211,1440414363,1398863801,754885087,1208353384,1404697612,725398419,670764308,813463849,942185438
 ```
