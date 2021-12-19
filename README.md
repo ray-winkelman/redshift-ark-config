@@ -17,7 +17,7 @@ The RedShift Ark server rotates and hosts survivors on official maps using the c
 ## Active Mods
 The active mods are stacked in the following order:
 1. Structures Plus (Open Source) - 731604991
-2. Ultra Stacks - 761535755
+2. Stacks for Humans - 1333158793
 3. Automated Ark 3 CORE - v3.096 - 2007400172
 4. Automated Ark Add-on: Power Generation - 2007447056
 5. Classic Flyers - 895711211
@@ -42,5 +42,5 @@ You may have to visit the Steam link below and click **_Subscribe To All_** in o
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-731604991,761535755,2007400172,2007447056,895711211,1440414363,1398863801,754885087,1208353384,1404697612,725398419,670764308,813463849,942185438
+731604991,1333158793,2007400172,2007447056,895711211,1440414363,1398863801,754885087,1208353384,1404697612,725398419,670764308,813463849,942185438
 ```
