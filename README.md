@@ -18,18 +18,16 @@ The RedShift Ark server rotates and hosts survivors on official maps using the c
 The active mods are stacked in the following order:
 1. Structures Plus (Open Source) - 731604991
 2. Stacks for Humans - 1333158793
-3. Automated Ark 3 CORE - v3.096 - 2007400172
-4. Automated Ark Add-on: Power Generation - 2007447056
-5. Classic Flyers - 895711211
-6. All Dinos Allow Guns - 1440414363
-7. Boss Arena Tweaker - 1398863801
-8. More Narcotics & More Tranq-Arrows Combined v2.1 - 754885087
-9. Fast Forge - 1208353384
-10. Awesome SpyGlass! - 1404697612
-11. Snappy Saddles & Rafts - 725398419
-12. eco Trees - 670764308
-13. All Skins Chest - 813463849
-14. Unlock Haircuts and Emotes - 942185438
+3. Classic Flyers - 895711211
+4. All Dinos Allow Guns - 1440414363
+5. Boss Arena Tweaker - 1398863801
+6. More Narcotics & More Tranq-Arrows Combined v2.1 - 754885087
+7. Fast Forge - 1208353384
+8. Awesome SpyGlass! - 1404697612
+9. Snappy Saddles & Rafts - 725398419
+10. eco Trees - 670764308
+11. All Skins Chest - 813463849
+12. Unlock Haircuts and Emotes - 942185438
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
 > ARK: Survival Evolved > Workshop > Collections > RayBan's Workshop > [RedShift Ark Server Mod Stack](http://steamcommunity.com/sharedfiles/filedetails/?id=1138050972)
@@ -42,5 +40,5 @@ You may have to visit the Steam link below and click **_Subscribe To All_** in o
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-731604991,1333158793,2007400172,2007447056,895711211,1440414363,1398863801,754885087,1208353384,1404697612,725398419,670764308,813463849,942185438
+731604991,1333158793,895711211,1440414363,1398863801,754885087,1208353384,1404697612,725398419,670764308,813463849,942185438
 ```
