@@ -16,29 +16,33 @@ The RedShift Ark server rotates and hosts survivors on official maps using the c
 
 ## Active Mods
 The active mods are stacked in the following order:
-1. Structures Plus (Open Source) - 731604991
-2. Stacks for Humans - 1333158793
-3. Classic Flyers - 895711211
-4. All Dinos Allow Guns - 1440414363
-5. Boss Arena Tweaker - 1398863801
-6. More Narcotics & More Tranq-Arrows Combined v2.1 - 754885087
-7. Fast Forge - 1208353384
-8. Awesome SpyGlass! - 1404697612
-9. Snappy Saddles & Rafts - 725398419
-10. eco Trees - 670764308
-11. All Skins Chest - 813463849
-12. Unlock Haircuts and Emotes - 942185438
+1. Primal Fear - 839162288
+2. Primal Fear Bosses - 899987403
+3. Structures Plus (Open Source) - 731604991
+4. Stacks for Humans - 1333158793
+5. [Disabled] Classic Flyers - 895711211
+6. All Dinos Allow Guns - 1440414363
+7. Boss Arena Tweaker - 1398863801
+8. [Disabled] More Narcotics & More Tranq-Arrows Combined v2.1 - 754885087
+9. Fast Forge - 1208353384
+10. Awesome SpyGlass! - 1404697612
+11. Snappy Saddles & Rafts - 725398419
+12. eco Trees - 670764308
+13. All Skins Chest - 813463849
+14. Unlock Haircuts and Emotes - 942185438
+15. Dino Quick Recovery - 1277490425
+16. Death Recovery Mod (v1.13) - 751991809
 You may have to visit the Steam link below and click **_Subscribe To All_** in order to circumvent a recurring connection timeout issue.
 
 > ARK: Survival Evolved > Workshop > Collections > RayBan's Workshop > [RedShift Ark Server Mod Stack](http://steamcommunity.com/sharedfiles/filedetails/?id=1138050972)
 
 ## URL For Manual Connections
 ```
-107.173.81.58:30317 (RCON)
+104.254.233.250:18116
 ```
 
 ###### Miscellaneous: Mod String
 I refer to this csv string for server reboots occasionally. 
 ```
-731604991,1333158793,895711211,1440414363,1398863801,754885087,1208353384,1404697612,725398419,670764308,813463849,942185438
+839162288,899987403,731604991,1333158793,1440414363,1398863801,1208353384,1404697612,725398419,670764308,813463849,942185438,1277490425,751991809
 ```
